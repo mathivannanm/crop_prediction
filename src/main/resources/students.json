@@ -1,0 +1,633 @@
+{
+  "students": [
+    {
+      "student_id": 1,
+      "name": "Arun",
+      "dob": "2003-05-12",
+      "gender": "Male",
+      "dept": {
+        "dept_id": 101,
+        "dept_name": "AIML",
+        "years": [
+          {
+            "year": 1,
+            "courses": [
+              { "course_id": "AIML101", "course_name": "Python Programming" },
+              { "course_id": "AIML102", "course_name": "Engineering Maths" },
+              { "course_id": "AIML103", "course_name": "Digital Logic" },
+              { "course_id": "AIML104", "course_name": "Data Science Basics" },
+              { "course_id": "AIML105", "course_name": "Communication Skills" }
+            ]
+          },
+          {
+            "year": 2,
+            "courses": [
+              { "course_id": "AIML201", "course_name": "Machine Learning" },
+              { "course_id": "AIML202", "course_name": "Statistics" },
+              { "course_id": "AIML203", "course_name": "DBMS" },
+              { "course_id": "AIML204", "course_name": "Operating Systems" },
+              { "course_id": "AIML205", "course_name": "Java Programming" }
+            ]
+          },
+          {
+            "year": 3,
+            "courses": [
+              { "course_id": "AIML301", "course_name": "Deep Learning" },
+              { "course_id": "AIML302", "course_name": "AI Algorithms" },
+              { "course_id": "AIML303", "course_name": "Computer Networks" },
+              { "course_id": "AIML304", "course_name": "Cloud Computing" },
+              { "course_id": "AIML305", "course_name": "Mini Project" }
+            ]
+          },
+          {
+            "year": 4,
+            "courses": [
+              { "course_id": "AIML401", "course_name": "NLP" },
+              { "course_id": "AIML402", "course_name": "Computer Vision" },
+              { "course_id": "AIML403", "course_name": "Big Data Analytics" },
+              { "course_id": "AIML404", "course_name": "Ethics in AI" },
+              { "course_id": "AIML405", "course_name": "Final Project" }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "student_id": 2,
+      "name": "Divya",
+      "dob": "2002-11-20",
+      "gender": "Female",
+      "dept": {
+        "dept_id": 102,
+        "dept_name": "CSE",
+        "years": [
+          {
+            "year": 1,
+            "courses": [
+              { "course_id": "CSE101", "course_name": "C Programming" },
+              { "course_id": "CSE102", "course_name": "Engineering Physics" },
+              { "course_id": "CSE103", "course_name": "Mathematics I" },
+              { "course_id": "CSE104", "course_name": "Basic Electronics" },
+              { "course_id": "CSE105", "course_name": "English" }
+            ]
+          },
+          {
+            "year": 2,
+            "courses": [
+              { "course_id": "CSE201", "course_name": "Data Structures" },
+              { "course_id": "CSE202", "course_name": "DBMS" },
+              { "course_id": "CSE203", "course_name": "Computer Organization" },
+              { "course_id": "CSE204", "course_name": "Java" },
+              { "course_id": "CSE205", "course_name": "Probability" }
+            ]
+          },
+          {
+            "year": 3,
+            "courses": [
+              { "course_id": "CSE301", "course_name": "Web Development" },
+              { "course_id": "CSE302", "course_name": "Software Engineering" },
+              { "course_id": "CSE303", "course_name": "AI Basics" },
+              { "course_id": "CSE304", "course_name": "Compiler Design" },
+              { "course_id": "CSE305", "course_name": "Mini Project" }
+            ]
+          },
+          {
+            "year": 4,
+            "courses": [
+              { "course_id": "CSE401", "course_name": "Cloud Computing" },
+              { "course_id": "CSE402", "course_name": "Cyber Security" },
+              { "course_id": "CSE403", "course_name": "IoT" },
+              { "course_id": "CSE404", "course_name": "Elective" },
+              { "course_id": "CSE405", "course_name": "Final Project" }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "student_id": 3,
+      "name": "Karthik",
+      "dob": "2003-01-15",
+      "gender": "Male",
+      "dept": {
+        "dept_id": 103,
+        "dept_name": "ECE",
+        "years": [
+          {
+            "year": 1,
+            "courses": [
+              { "course_id": "ECE101", "course_name": "Engineering Maths" },
+              { "course_id": "ECE102", "course_name": "Physics" },
+              { "course_id": "ECE103", "course_name": "Basic Electronics" },
+              { "course_id": "ECE104", "course_name": "C Programming" },
+              { "course_id": "ECE105", "course_name": "English" }
+            ]
+          },
+          {
+            "year": 2,
+            "courses": [
+              { "course_id": "ECE201", "course_name": "Signals and Systems" },
+              { "course_id": "ECE202", "course_name": "Analog Circuits" },
+              { "course_id": "ECE203", "course_name": "Digital Electronics" },
+              { "course_id": "ECE204", "course_name": "Network Theory" },
+              { "course_id": "ECE205", "course_name": "Python Programming" }
+            ]
+          },
+          {
+            "year": 3,
+            "courses": [
+              { "course_id": "ECE301", "course_name": "VLSI Design" },
+              { "course_id": "ECE302", "course_name": "Embedded Systems" },
+              { "course_id": "ECE303", "course_name": "Communication Systems" },
+              { "course_id": "ECE304", "course_name": "Digital Signal Processing" },
+              { "course_id": "ECE305", "course_name": "Mini Project" }
+            ]
+          },
+          {
+            "year": 4,
+            "courses": [
+              { "course_id": "ECE401", "course_name": "Wireless Communication" },
+              { "course_id": "ECE402", "course_name": "IoT" },
+              { "course_id": "ECE403", "course_name": "AI for ECE" },
+              { "course_id": "ECE404", "course_name": "Elective" },
+              { "course_id": "ECE405", "course_name": "Final Project" }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "student_id": 4,
+      "name": "Meena",
+      "dob": "2002-08-30",
+      "gender": "Female",
+      "dept": {
+        "dept_id": 104,
+        "dept_name": "EEE",
+        "years": [
+          {
+            "year": 1,
+            "courses": [
+              { "course_id": "EEE101", "course_name": "Engineering Maths" },
+              { "course_id": "EEE102", "course_name": "Physics" },
+              { "course_id": "EEE103", "course_name": "Electrical Basics" },
+              { "course_id": "EEE104", "course_name": "C Programming" },
+              { "course_id": "EEE105", "course_name": "English" }
+            ]
+          },
+          {
+            "year": 2,
+            "courses": [
+              { "course_id": "EEE201", "course_name": "Circuit Theory" },
+              { "course_id": "EEE202", "course_name": "Electrical Machines" },
+              { "course_id": "EEE203", "course_name": "Measurements" },
+              { "course_id": "EEE204", "course_name": "Control Systems" },
+              { "course_id": "EEE205", "course_name": "Python Programming" }
+            ]
+          },
+          {
+            "year": 3,
+            "courses": [
+              { "course_id": "EEE301", "course_name": "Power Systems" },
+              { "course_id": "EEE302", "course_name": "Microprocessors" },
+              { "course_id": "EEE303", "course_name": "Renewable Energy Systems" },
+              { "course_id": "EEE304", "course_name": "PLC" },
+              { "course_id": "EEE305", "course_name": "Mini Project" }
+            ]
+          },
+          {
+            "year": 4,
+            "courses": [
+              { "course_id": "EEE401", "course_name": "Smart Grid" },
+              { "course_id": "EEE402", "course_name": "Electric Vehicles" },
+              { "course_id": "EEE403", "course_name": "Energy Management" },
+              { "course_id": "EEE404", "course_name": "Elective" },
+              { "course_id": "EEE405", "course_name": "Final Project" }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "student_id": 5,
+      "name": "Ravi",
+      "dob": "2003-03-18",
+      "gender": "Male",
+      "dept": {
+        "dept_id": 105,
+        "dept_name": "MECH",
+        "years": [
+          {
+            "year": 1,
+            "courses": [
+              { "course_id": "ME101", "course_name": "Engineering Mechanics" },
+              { "course_id": "ME102", "course_name": "Engineering Maths" },
+              { "course_id": "ME103", "course_name": "Physics" },
+              { "course_id": "ME104", "course_name": "C Programming" },
+              { "course_id": "ME105", "course_name": "English" }
+            ]
+          },
+          {
+            "year": 2,
+            "courses": [
+              { "course_id": "ME201", "course_name": "Thermodynamics" },
+              { "course_id": "ME202", "course_name": "Material Science" },
+              { "course_id": "ME203", "course_name": "Manufacturing Processes" },
+              { "course_id": "ME204", "course_name": "CAD" },
+              { "course_id": "ME205", "course_name": "Statistics" }
+            ]
+          },
+          {
+            "year": 3,
+            "courses": [
+              { "course_id": "ME301", "course_name": "Heat Transfer" },
+              { "course_id": "ME302", "course_name": "Fluid Mechanics" },
+              { "course_id": "ME303", "course_name": "CAM" },
+              { "course_id": "ME304", "course_name": "Mechatronics" },
+              { "course_id": "ME305", "course_name": "Mini Project" }
+            ]
+          },
+          {
+            "year": 4,
+            "courses": [
+              { "course_id": "ME401", "course_name": "Robotics" },
+              { "course_id": "ME402", "course_name": "Automation" },
+              { "course_id": "ME403", "course_name": "Industrial Engineering" },
+              { "course_id": "ME404", "course_name": "Elective" },
+              { "course_id": "ME405", "course_name": "Final Project" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+  "student_id": 6,
+  "name": "Suresh",
+  "dob": "2003-06-10",
+  "gender": "Male",
+  "dept": {
+    "dept_id": 101,
+    "dept_name": "AIDS",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "AIML101", "course_name": "Python Programming" },
+          { "course_id": "AIML102", "course_name": "Engineering Maths" },
+          { "course_id": "AIML103", "course_name": "Digital Logic" },
+          { "course_id": "AIML104", "course_name": "Data Science Basics" },
+          { "course_id": "AIML105", "course_name": "Communication Skills" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "AIML201", "course_name": "Machine Learning" },
+          { "course_id": "AIML202", "course_name": "Statistics" },
+          { "course_id": "AIML203", "course_name": "DBMS" },
+          { "course_id": "AIML204", "course_name": "Operating Systems" },
+          { "course_id": "AIML205", "course_name": "Java Programming" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "AIML301", "course_name": "Deep Learning" },
+          { "course_id": "AIML302", "course_name": "AI Algorithms" },
+          { "course_id": "AIML303", "course_name": "Computer Networks" },
+          { "course_id": "AIML304", "course_name": "Cloud Computing" },
+          { "course_id": "AIML305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "AIML401", "course_name": "NLP" },
+          { "course_id": "AIML402", "course_name": "Computer Vision" },
+          { "course_id": "AIML403", "course_name": "Big Data Analytics" },
+          { "course_id": "AIML404", "course_name": "Ethics in AI" },
+          { "course_id": "AIML405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+},
+{
+  "student_id": 7,
+  "name": "Priya",
+  "dob": "2003-09-22",
+  "gender": "Female",
+  "dept": {
+    "dept_id": 102,
+    "dept_name": "CSE",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "CSE101", "course_name": "C Programming" },
+          { "course_id": "CSE102", "course_name": "Engineering Physics" },
+          { "course_id": "CSE103", "course_name": "Mathematics I" },
+          { "course_id": "CSE104", "course_name": "Basic Electronics" },
+          { "course_id": "CSE105", "course_name": "English" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "CSE201", "course_name": "Data Structures" },
+          { "course_id": "CSE202", "course_name": "DBMS" },
+          { "course_id": "CSE203", "course_name": "Computer Organization" },
+          { "course_id": "CSE204", "course_name": "Java" },
+          { "course_id": "CSE205", "course_name": "Probability" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "CSE301", "course_name": "Web Development" },
+          { "course_id": "CSE302", "course_name": "Software Engineering" },
+          { "course_id": "CSE303", "course_name": "AI Basics" },
+          { "course_id": "CSE304", "course_name": "Compiler Design" },
+          { "course_id": "CSE305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "CSE401", "course_name": "Cloud Computing" },
+          { "course_id": "CSE402", "course_name": "Cyber Security" },
+          { "course_id": "CSE403", "course_name": "IoT" },
+          { "course_id": "CSE404", "course_name": "Elective" },
+          { "course_id": "CSE405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+},
+{
+  "student_id": 8,
+  "name": "Vignesh",
+  "dob": "2003-02-05",
+  "gender": "Male",
+  "dept": {
+    "dept_id": 103,
+    "dept_name": "IT",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "ECE101", "course_name": "Engineering Maths" },
+          { "course_id": "ECE102", "course_name": "Physics" },
+          { "course_id": "ECE103", "course_name": "Basic Electronics" },
+          { "course_id": "ECE104", "course_name": "C Programming" },
+          { "course_id": "ECE105", "course_name": "English" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "ECE201", "course_name": "Signals and Systems" },
+          { "course_id": "ECE202", "course_name": "Analog Circuits" },
+          { "course_id": "ECE203", "course_name": "Digital Electronics" },
+          { "course_id": "ECE204", "course_name": "Network Theory" },
+          { "course_id": "ECE205", "course_name": "Python Programming" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "ECE301", "course_name": "VLSI Design" },
+          { "course_id": "ECE302", "course_name": "Embedded Systems" },
+          { "course_id": "ECE303", "course_name": "Communication Systems" },
+          { "course_id": "ECE304", "course_name": "Digital Signal Processing" },
+          { "course_id": "ECE305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "ECE401", "course_name": "Wireless Communication" },
+          { "course_id": "ECE402", "course_name": "IoT" },
+          { "course_id": "ECE403", "course_name": "AI for ECE" },
+          { "course_id": "ECE404", "course_name": "Elective" },
+          { "course_id": "ECE405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+},
+{
+  "student_id": 9,
+  "name": "Anitha",
+  "dob": "2003-07-14",
+  "gender": "Female",
+  "dept": {
+    "dept_id": 104,
+    "dept_name": "EEE",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "EEE101", "course_name": "Engineering Maths" },
+          { "course_id": "EEE102", "course_name": "Physics" },
+          { "course_id": "EEE103", "course_name": "Electrical Basics" },
+          { "course_id": "EEE104", "course_name": "C Programming" },
+          { "course_id": "EEE105", "course_name": "English" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "EEE201", "course_name": "Circuit Theory" },
+          { "course_id": "EEE202", "course_name": "Electrical Machines" },
+          { "course_id": "EEE203", "course_name": "Measurements" },
+          { "course_id": "EEE204", "course_name": "Control Systems" },
+          { "course_id": "EEE205", "course_name": "Python Programming" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "EEE301", "course_name": "Power Systems" },
+          { "course_id": "EEE302", "course_name": "Microprocessors" },
+          { "course_id": "EEE303", "course_name": "Renewable Energy Systems" },
+          { "course_id": "EEE304", "course_name": "PLC" },
+          { "course_id": "EEE305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "EEE401", "course_name": "Smart Grid" },
+          { "course_id": "EEE402", "course_name": "Electric Vehicles" },
+          { "course_id": "EEE403", "course_name": "Energy Management" },
+          { "course_id": "EEE404", "course_name": "Elective" },
+          { "course_id": "EEE405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+},
+{
+  "student_id": 10,
+  "name": "Balaji",
+  "dob": "2002-12-02",
+  "gender": "Male",
+  "dept": {
+    "dept_id": 105,
+    "dept_name": "MECH",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "ME101", "course_name": "Engineering Mechanics" },
+          { "course_id": "ME102", "course_name": "Engineering Maths" },
+          { "course_id": "ME103", "course_name": "Physics" },
+          { "course_id": "ME104", "course_name": "C Programming" },
+          { "course_id": "ME105", "course_name": "English" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "ME201", "course_name": "Thermodynamics" },
+          { "course_id": "ME202", "course_name": "Material Science" },
+          { "course_id": "ME203", "course_name": "Manufacturing Processes" },
+          { "course_id": "ME204", "course_name": "CAD" },
+          { "course_id": "ME205", "course_name": "Statistics" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "ME301", "course_name": "Heat Transfer" },
+          { "course_id": "ME302", "course_name": "Fluid Mechanics" },
+          { "course_id": "ME303", "course_name": "CAM" },
+          { "course_id": "ME304", "course_name": "Mechatronics" },
+          { "course_id": "ME305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "ME401", "course_name": "Robotics" },
+          { "course_id": "ME402", "course_name": "Automation" },
+          { "course_id": "ME403", "course_name": "Industrial Engineering" },
+          { "course_id": "ME404", "course_name": "Elective" },
+          { "course_id": "ME405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+},
+{
+  "student_id": 11,
+  "name": "Naveen",
+  "dob": "2003-04-27",
+  "gender": "Male",
+  "dept": {
+    "dept_id": 102,
+    "dept_name": "CSE",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "CSE101", "course_name": "C Programming" },
+          { "course_id": "CSE102", "course_name": "Engineering Physics" },
+          { "course_id": "CSE103", "course_name": "Mathematics I" },
+          { "course_id": "CSE104", "course_name": "Basic Electronics" },
+          { "course_id": "CSE105", "course_name": "English" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "CSE201", "course_name": "Data Structures" },
+          { "course_id": "CSE202", "course_name": "DBMS" },
+          { "course_id": "CSE203", "course_name": "Computer Organization" },
+          { "course_id": "CSE204", "course_name": "Java" },
+          { "course_id": "CSE205", "course_name": "Probability" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "CSE301", "course_name": "Web Development" },
+          { "course_id": "CSE302", "course_name": "Software Engineering" },
+          { "course_id": "CSE303", "course_name": "AI Basics" },
+          { "course_id": "CSE304", "course_name": "Compiler Design" },
+          { "course_id": "CSE305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "CSE401", "course_name": "Cloud Computing" },
+          { "course_id": "CSE402", "course_name": "Cyber Security" },
+          { "course_id": "CSE403", "course_name": "IoT" },
+          { "course_id": "CSE404", "course_name": "Elective" },
+          { "course_id": "CSE405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+},
+{
+  "student_id": 12,
+  "name": "Keerthana",
+  "dob": "2003-10-09",
+  "gender": "Female",
+  "dept": {
+    "dept_id": 101,
+    "dept_name": "AIML",
+    "years": [
+      {
+        "year": 1,
+        "courses": [
+          { "course_id": "AIML101", "course_name": "Python Programming" },
+          { "course_id": "AIML102", "course_name": "Engineering Maths" },
+          { "course_id": "AIML103", "course_name": "Digital Logic" },
+          { "course_id": "AIML104", "course_name": "Data Science Basics" },
+          { "course_id": "AIML105", "course_name": "Communication Skills" }
+        ]
+      },
+      {
+        "year": 2,
+        "courses": [
+          { "course_id": "AIML201", "course_name": "Machine Learning" },
+          { "course_id": "AIML202", "course_name": "Statistics" },
+          { "course_id": "AIML203", "course_name": "DBMS" },
+          { "course_id": "AIML204", "course_name": "Operating Systems" },
+          { "course_id": "AIML205", "course_name": "Java Programming" }
+        ]
+      },
+      {
+        "year": 3,
+        "courses": [
+          { "course_id": "AIML301", "course_name": "Deep Learning" },
+          { "course_id": "AIML302", "course_name": "AI Algorithms" },
+          { "course_id": "AIML303", "course_name": "Computer Networks" },
+          { "course_id": "AIML304", "course_name": "Cloud Computing" },
+          { "course_id": "AIML305", "course_name": "Mini Project" }
+        ]
+      },
+      {
+        "year": 4,
+        "courses": [
+          { "course_id": "AIML401", "course_name": "NLP" },
+          { "course_id": "AIML402", "course_name": "Computer Vision" },
+          { "course_id": "AIML403", "course_name": "Big Data Analytics" },
+          { "course_id": "AIML404", "course_name": "Ethics in AI" },
+          { "course_id": "AIML405", "course_name": "Final Project" }
+        ]
+      }
+    ]
+  }
+}
+
+  ]
+}

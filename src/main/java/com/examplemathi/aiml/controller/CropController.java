@@ -28,15 +28,14 @@ public class CropController {
 
     @GetMapping("/")
     public String index(Model model) {
-        return "index"; // templates/index.html
+        return "index"; // index.html
     }
 
     @PostMapping("/search")
-    public String searchCrop(
-            @RequestParam(required = false) String crop,
-            @RequestParam(required = false) String soil,
-            @RequestParam(required = true) String season,
-            Model model) {
+    public String searchCrop(@RequestParam(required = false) String crop,
+                             @RequestParam(required = false) String soil,
+                             @RequestParam(required = true) String season,
+                             Model model) {
 
         crop = (crop != null) ? crop.trim() : "";
         soil = (soil != null) ? soil.trim() : "";
@@ -54,7 +53,7 @@ public class CropController {
         for (List<String> row : matchedRows) {
             List<String> newRow = new ArrayList<>();
             newRow.add(String.valueOf(serial++)); // S.No
-            newRow.addAll(row); // original row: Order, Crop, Duration, Season, SoilType, ...
+            newRow.addAll(row);
             rowsWithSerial.add(newRow);
         }
 
@@ -72,13 +71,13 @@ public class CropController {
         try (Workbook workbook = new XSSFWorkbook()) {
             Sheet sheet = workbook.createSheet("Filtered Data");
 
-            // Header row (adjust names to match your CSV columns)
-            Row header = sheet.createRow(0);
             String[] headers = {
                     "S.No","Crop","Duration (days)","Season","Soil Type",
                     "Avg Water (%)","N Need (kg/ha)","P2O5 Need (kg/ha)","K2O Need (kg/ha)",
                     "Urea (kg/ha)","DAP (kg/ha)","MOP (kg/ha)","Fertilizer Timing","Extra Tips","Harvesting Tips"
             };
+
+            Row header = sheet.createRow(0);
             for (int i = 0; i < headers.length; i++) header.createCell(i).setCellValue(headers[i]);
 
             int rowNum = 1;

@@ -1,0 +1,973 @@
+S.No,Crop Name,Soil Type,Growth Duration (Days),Season,N-P-K Ratio,Urea (kg/ha),DAP (kg/ha),MOP (kg/ha),Fertilizer Schedule,Water Requirement,Cultivation Tips,Harvesting Tips
+1,Carrot,Sandy Soil,90-120,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),High,Needs frequent irrigation; mulching reduces moisture loss,Harvest when roots reach 2-3 cm diameter
+2,Carrot,Sandy Loam,90-120,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),Moderate,Best soil for carrots; loose soil gives uniform roots,Harvest when roots are smooth & marketable
+3,Carrot,Loam,90-120,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),Moderate,Loam supports balanced growth and root shape,Harvest at full maturity with uniform color
+4,Carrot,Clay Loam,100-125,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),Moderate to High,Soil compaction may affect root size; do deep ploughing,Harvest carefully to avoid root breakage
+5,Carrot,Clay,110-130,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),High,Heavy soils may cause forked roots; use raised beds,Harvest when soil is moist for easy pulling
+6,Carrot,Red Soil,90-110,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),Moderate,Responds well to organic manure in red soils,Harvest when tops start yellowing slightly
+7,Carrot,Black Soil,100-120,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),High,Retains moisture well; requires drainage,Harvest in early morning for better root quality
+8,Carrot,Laterite Soil,90-110,Rabi,60-30-30,90,45,45,Basal + Top Dressing (30 DAS),Low to Moderate,Add compost to improve fertility in laterites,Harvest when roots develop bright orange color
+9,Radish,Sandy Soil,45-55,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),High,Frequent irrigation needed; prevents pithiness,Harvest when roots are tender & white
+10,Radish,Sandy Loam,45-55,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),Moderate,Ideal soil for radish; gives straight roots,Harvest at 30–45 days for best taste
+11,Radish,Loam,50-60,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),Moderate,Loam maintains uniform growth,Harvest before roots turn fibrous
+12,Radish,Clay Loam,55-65,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),Moderate to High,Compaction may cause misshaped roots; deep tillage helps,Harvest while roots are still crisp
+13,Radish,Clay,60-70,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),High,Heavy soils delay maturity; use raised beds,Harvest with care to avoid breaking roots
+14,Radish,Red Soil,45-55,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),Moderate,Responds well to FYM/organic manures,Harvest when tops start wilting slightly
+15,Radish,Black Soil,55-65,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),High,Holds moisture well; ensure drainage to avoid cracking,Harvest early morning to maintain crispness
+16,Radish,Laterite Soil,50-60,Rabi/Kharif,50-25-25,75,40,40,Basal + Light Top Dressing (20 DAS),Low to Moderate,Laterites need organic matter for better root growth,Harvest when roots are smooth & tender
+17,Turnip,Sandy Soil,60-75,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),High,Needs regular irrigation; sandy soils dry fast,Harvest when roots are 5–8 cm diameter and tender
+18,Turnip,Sandy Loam,60-75,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),Moderate,Best soil for uniform turnip bulbs,Harvest before roots become woody
+19,Turnip,Loam,70-85,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),Moderate,Supports balanced growth and sweetness,Harvest at marketable size with smooth skin
+20,Turnip,Clay Loam,80-90,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),Moderate to High,Compaction may cause small bulbs; plough well,Harvest carefully to avoid damage
+21,Turnip,Clay,85-95,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),High,Heavy soils delay maturity; use ridges,Harvest when tops begin yellowing
+22,Turnip,Red Soil,65-80,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),Moderate,Performs well with FYM incorporation,Harvest when roots turn bright white/purple
+23,Turnip,Black Soil,70-85,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),High,Moisture retention is high; needs drainage,Harvest when roots are tender
+24,Turnip,Laterite Soil,65-80,Rabi,60-40-40,90,50,50,Basal + Top Dressing (30 DAS),Low to Moderate,Add compost for fertility,Harvest before roots crack
+25,Beetroot,Sandy Soil,85-100,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),High,Frequent irrigation needed for uniform roots,Harvest when roots are 5–7 cm diameter
+26,Beetroot,Sandy Loam,85-100,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),Moderate,Best soil for smooth beets,Harvest at bright red stage
+27,Beetroot,Loam,90-110,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),Moderate,Supports balanced sugar accumulation,Harvest when roots are firm and red
+28,Beetroot,Clay Loam,100-120,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),Moderate to High,May cause uneven roots; ensure deep ploughing,Harvest carefully to avoid cracks
+29,Beetroot,Clay,110-125,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),High,Heavy soil may delay maturity; raised beds preferred,Harvest when soil is moist
+30,Beetroot,Red Soil,90-110,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),Moderate,Responds well to FYM,Harvest when roots are smooth & bright red
+31,Beetroot,Black Soil,100-115,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),High,High water retention; avoid waterlogging,Harvest at 5–7 cm diameter
+32,Beetroot,Laterite Soil,90-110,Rabi/Kharif,60-40-50,100,50,60,Basal + Top Dressing (30 DAS),Low to Moderate,Add organic manure,Harvest before roots crack
+33,Yam,Sandy Soil,180-210,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Sandy soil needs mulching and frequent irrigation,Harvest after leaves yellow and vines dry
+34,Yam,Sandy Loam,180-210,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Loose soils give better tuber expansion,Harvest carefully to avoid tuber injury
+35,Yam,Loam,200-220,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Loam supports uniform tuber growth,Harvest when vines dry naturally
+36,Yam,Clay Loam,210-230,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate to High,Compaction restricts tuber size; deep ploughing needed,Harvest with digging tools
+37,Yam,Clay,220-240,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Heavy soils delay maturity; prefer ridging,Harvest when soil is moist
+38,Yam,Red Soil,190-220,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Responds well to FYM,Harvest after vines dry
+39,Yam,Black Soil,200-220,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Holds water well; ensure drainage,Harvest at full maturity
+40,Yam,Laterite Soil,190-220,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Low to Moderate,Add compost to improve fertility,Harvest before tubers crack
+41,Colocasia,Sandy Soil,150-160,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Frequent irrigation prevents leaf burn,Harvest when leaves yellow
+42,Colocasia,Sandy Loam,150-160,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Loose soil helps corm development,Harvest corms carefully
+43,Colocasia,Loam,160-170,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Loam gives uniform corms,Harvest when leaves wilt
+44,Colocasia,Clay Loam,170-180,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate to High,Ensure drainage; waterlogging harmful,Harvest with spade carefully
+45,Colocasia,Clay,175-185,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Heavy soils delay growth; raised beds help,Harvest when soil is moist
+46,Colocasia,Red Soil,160-170,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Responds to FYM & compost,Harvest when corms mature
+47,Colocasia,Black Soil,165-175,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Moisture retention good; avoid waterlogging,Harvest before corms crack
+48,Colocasia,Laterite Soil,160-170,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Low to Moderate,Laterites need manures,Harvest carefully
+49,Tapioca,Sandy Soil,240-270,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,High,Frequent irrigation required; mulch helps,Harvest at 8–10 months when leaves yellow
+50,Tapioca,Sandy Loam,240-270,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,Moderate,Loose soil supports tuber elongation,Harvest when tubers mature
+51,Tapioca,Loam,260-280,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,Moderate,Loam ensures uniform tuber size,Harvest at 9–10 months
+52,Tapioca,Clay Loam,270-300,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,Moderate to High,Heavy soil may reduce yield; deep ploughing helps,Harvest carefully with tools
+53,Tapioca,Clay,280-300,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,High,Excess moisture delays maturity,Harvest when leaves dry
+54,Tapioca,Red Soil,250-270,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,Moderate,Performs well with FYM addition,Harvest after 8 months
+55,Tapioca,Black Soil,260-280,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,High,Holds water; drainage essential,Harvest at 9–10 months
+56,Tapioca,Laterite Soil,250-270,Kharif/Rabi,100-50-100,220,90,165,Basal + Split at 45 & 90 DAS,Low to Moderate,Needs organic manure,Harvest before tubers crack
+57,Sweet Potato,Sandy Soil,120-130,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,High,Sandy soils need frequent irrigation,Harvest after 3–4 months
+58,Sweet Potato,Sandy Loam,120-130,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,Moderate,Best soil for uniform tubers,Harvest when leaves yellow
+59,Sweet Potato,Loam,130-140,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,Moderate,Loam supports balanced growth,Harvest at full maturity
+60,Sweet Potato,Clay Loam,140-150,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,Moderate to High,Soil compaction may reduce yield,Harvest carefully to avoid tuber injury
+61,Sweet Potato,Clay,140-150,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,High,Heavy soils delay maturity; ridging useful,Harvest when soil is moist
+62,Sweet Potato,Red Soil,125-140,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,Moderate,Responds to FYM and compost,Harvest after 4 months
+63,Sweet Potato,Black Soil,130-145,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,High,Good water retention; drainage required,Harvest when vines start drying
+64,Sweet Potato,Laterite Soil,125-140,Kharif/Rabi,60-50-100,130,80,165,Basal + Split at 45 DAS,Low to Moderate,Needs organic manure,Harvest before tubers crack
+65,Arrowroot,Sandy Soil,180-200,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Needs irrigation; sandy soil dries quickly,Harvest after 7–8 months when leaves dry
+66,Arrowroot,Sandy Loam,180-200,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Loose soil supports rhizome expansion,Harvest carefully to avoid rhizome breakage
+67,Arrowroot,Loam,190-210,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Loam ensures uniform rhizomes,Harvest at maturity after leaves dry
+68,Arrowroot,Clay Loam,200-220,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate to High,Heavy soil needs good drainage,Harvest with digging tools
+69,Arrowroot,Clay,210-230,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Heavy soil delays maturity; raised beds helpful,Harvest when soil is moist
+70,Arrowroot,Red Soil,190-210,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Moderate,Responds well to FYM,Harvest after 7–8 months
+71,Arrowroot,Black Soil,200-220,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,High,Holds water well; drainage is important,Harvest before rhizomes crack
+72,Arrowroot,Laterite Soil,190-210,Kharif,80-60-100,175,80,165,Basal + Split at 45 & 90 DAS,Low to Moderate,Needs organic matter for fertility,Harvest carefully when leaves dry
+1,Spinach,Sandy Soil,30-40,Rabi/Kharif,80-40-40,132,66,66,Basal + 1 top dressing at 20 DAS,420,Frequent light irrigation and mulching to reduce evaporation,Harvest leaf picks at 30–40 days; successive harvests every 10–14 days
+2,Spinach,Sandy Loam,30-40,Rabi/Kharif,80-40-40,120,60,60,Basal + 1 top dressing at 20 DAS,385,Loose soil promotes quick establishment,Harvest leaves when 10–15 cm long for best quality
+3,Spinach,Loam,30-40,Rabi/Kharif,80-40-40,120,60,60,Basal + 1 top dressing at 20 DAS,350,Balanced moisture and fertility supports fast growth,Harvest by cutting outer leaves; avoid damaging crown
+4,Spinach,Clay Loam,35-45,Rabi/Kharif,80-40-40,120,60,60,Basal + 1 top dressing at 20 DAS,368,Ensure good drainage; shallow beds reduce waterlogging,Harvest when leaves are tender; staggered picking
+5,Spinach,Clay,35-45,Rabi/Kharif,80-40-40,120,60,60,Basal + 1 top dressing at 20 DAS,385,Use raised beds to improve aeration,Harvest early morning for best shelf life
+6,Spinach,Red Soil,30-40,Rabi/Kharif,80-40-40,120,60,60,Basal + 1 top dressing at 20 DAS,350,Incorporate compost/FYM before sowing,Harvest 30–40 days after sowing for baby leaves
+7,Spinach,Black Soil,35-45,Rabi/Kharif,80-40-40,126,63,63,Basal + 1 top dressing at 20 DAS,403,Good moisture retention; avoid waterlogging,Harvest leaves when fully expanded; avoid coarse older leaves
+8,Spinach,Laterite Soil,30-40,Rabi/Kharif,80-40-40,132,66,66,Basal + 1 top dressing at 20 DAS,368,Add compost and rock phosphate to improve fertility,Harvest at leaf maturity; provide shade in hot months
+9,Methi (Fenugreek),Sandy Soil,30-35,Rabi/Kharif,60-30-30,99,50,50,Basal only; light top dressing at 20 DAS,360,Frequent irrigation; thin sowing for tender leaves,Harvest leaf cutting at 25–30 days; multiple pickings possible
+10,Methi (Fenugreek),Sandy Loam,30-35,Rabi/Kharif,60-30-30,90,45,45,Basal only; light top dressing at 20 DAS,330,Good seedbed and moderate moisture improve germination,Harvest leafy shoots at 25–30 days
+11,Methi (Fenugreek),Loam,30-40,Rabi/Kharif,60-30-30,90,45,45,Basal only; light top dressing at 20 DAS,300,Well-drained loam gives uniform growth,Harvest before flowering for best flavor
+12,Methi (Fenugreek),Clay Loam,35-45,Rabi/Kharif,60-30-30,90,45,45,Basal only; light top dressing at 20 DAS,315,Deep tillage helps root development,Harvest young shoots to avoid bitterness
+13,Methi (Fenugreek),Clay,35-45,Rabi/Kharif,60-30-30,90,45,45,Basal only; light top dressing at 20 DAS,330,Ridges/raised beds recommended,Harvest early for tender greens
+14,Methi (Fenugreek),Red Soil,30-35,Rabi/Kharif,60-30-30,90,45,45,Basal only; light top dressing at 20 DAS,300,Responds well to FYM and phosphorus,Harvest before bolting for best leaf quality
+15,Methi (Fenugreek),Black Soil,35-45,Rabi/Kharif,60-30-30,95,47,47,Basal only; light top dressing at 20 DAS,345,High moisture retention; ensure surface drainage,Harvest by successive cuttings every 20–30 days
+16,Methi (Fenugreek),Laterite Soil,30-35,Rabi/Kharif,60-30-30,99,50,50,Basal only; light top dressing at 20 DAS,315,Improve organic matter before sowing,Harvest tender leaves at 25–30 days
+17,Bathua,Sandy Soil,30-40,Rabi/Kharif,60-30-30,99,50,50,Basal + light top dressing at 20 DAS,360,Frequent irrigation and light soil working for seedlings,Harvest leaves at 30–40 days; multiple cuttings possible
+18,Bathua,Sandy Loam,30-40,Rabi/Kharif,60-30-30,90,45,45,Basal + light top dressing at 20 DAS,330,Loose seedbed aids rapid growth,Harvest young leaves for best taste
+19,Bathua,Loam,30-45,Rabi/Kharif,60-30-30,90,45,45,Basal + light top dressing at 20 DAS,300,Loam retains good moisture for leafy growth,Harvest by cutting back stems; regrowth common
+20,Bathua,Clay Loam,35-50,Rabi/Kharif,60-30-30,90,45,45,Basal + light top dressing at 20 DAS,315,Ensure drainage to prevent root rot,Harvest before fibrous stage for tender leaves
+21,Bathua,Clay,35-50,Rabi/Kharif,60-30-30,90,45,45,Basal + light top dressing at 20 DAS,330,Use raised beds in heavy clay,Harvest successive pickings every 20–30 days
+22,Bathua,Red Soil,30-45,Rabi/Kharif,60-30-30,90,45,45,Basal + light top dressing at 20 DAS,300,Responds well to organic manures,Harvest leaves when tender for highest quality
+23,Bathua,Black Soil,35-50,Rabi/Kharif,60-30-30,95,47,47,Basal + light top dressing at 20 DAS,345,High moisture retention; watch for lodging,Harvest early morning for freshness
+24,Bathua,Laterite Soil,30-45,Rabi/Kharif,60-30-30,99,50,50,Basal + light top dressing at 20 DAS,315,Add compost to improve fertility,Harvest before leaves coarse and fibrous
+25,Coriander (Dhania),Sandy Soil,35-50,Rabi/Kharif,50-25-25,83,42,42,Basal + light top dressing at 20–25 DAS,420,Frequent light irrigation; avoid deep waterlogging,Harvest leaves 30–45 days for coriander greens
+26,Coriander (Dhania),Sandy Loam,35-50,Rabi/Kharif,50-25-25,75,38,38,Basal + light top dressing at 20–25 DAS,385,Thin stands for open canopy and leaf quality,Harvest before flowering for best aroma
+27,Coriander (Dhania),Loam,40-60,Rabi/Kharif,50-25-25,75,38,38,Basal + light top dressing at 20–25 DAS,350,Loam gives uniform canopy and quality,Harvest multiple cuttings or cut-and-come-again
+28,Coriander (Dhania),Clay Loam,45-60,Rabi/Kharif,50-25-25,75,38,38,Basal + light top dressing at 20–25 DAS,368,Ensure good drainage; reduce irrigation frequency,Harvest leaves early morning for high essential oil
+29,Coriander (Dhania),Clay,45-60,Rabi/Kharif,50-25-25,75,38,38,Basal + light top dressing at 20–25 DAS,385,Use raised beds to prevent waterlogging,Harvest leaves at 30–45 days; remove older stems
+30,Coriander (Dhania),Red Soil,35-55,Rabi/Kharif,50-25-25,75,38,38,Basal + light top dressing at 20–25 DAS,350,Responds well to FYM and phosphorus,Harvest leaves before bolting for best quality
+31,Coriander (Dhania),Black Soil,40-60,Rabi/Kharif,50-25-25,79,40,40,Basal + light top dressing at 20–25 DAS,403,Avoid waterlogged seedbeds; ensure surface drainage,Harvest by cutting stems 3–4 cm above ground
+32,Coriander (Dhania),Laterite Soil,35-55,Rabi/Kharif,50-25-25,83,42,42,Basal + light top dressing at 20–25 DAS,368,Improve organic content with compost,Harvest before flowering for fresh leaves
+33,Amaranthus,Sandy Soil,35-45,Kharif/Rabi,70-35-35,116,58,58,Basal + 1 top dressing at 25 DAS,420,Frequent irrigation for leafy yield; thin stands for air circulation,Harvest leaves from 35 days; multiple pickings every 10–15 days
+34,Amaranthus,Sandy Loam,35-45,Kharif/Rabi,70-35-35,105,53,53,Basal + 1 top dressing at 25 DAS,385,Good tilth encourages vigorous leaf production,Harvest tender leaves regularly to promote regrowth
+35,Amaranthus,Loam,40-50,Kharif/Rabi,70-35-35,105,53,53,Basal + 1 top dressing at 25 DAS,350,Loam supports dense leaf canopy,Harvest by selective leaf picking or cutting whole tips
+36,Amaranthus,Clay Loam,45-55,Kharif/Rabi,70-35-35,105,53,53,Basal + 1 top dressing at 25 DAS,368,Ensure drainage to reduce fungal issues,Harvest leaves before fiber content increases
+37,Amaranthus,Clay,45-55,Kharif/Rabi,70-35-35,105,53,53,Basal + 1 top dressing at 25 DAS,385,Use raised beds in heavy clay,Harvest frequently for best tenderness
+38,Amaranthus,Red Soil,35-50,Kharif/Rabi,70-35-35,105,53,53,Basal + 1 top dressing at 25 DAS,350,Responds well to FYM and micronutrients,Harvest young shoots for greens
+39,Amaranthus,Black Soil,40-55,Kharif/Rabi,70-35-35,110,56,56,Basal + 1 top dressing at 25 DAS,403,High moisture retention; avoid prolonged waterlogging,Harvest early morning to reduce wilting
+40,Amaranthus,Laterite Soil,35-50,Kharif/Rabi,70-35-35,116,58,58,Basal + 1 top dressing at 25 DAS,368,Add compost to improve fertility,Harvest before stems toughen
+41,Mustard Greens (Sarson),Sandy Soil,40-60,Rabi,70-40-40,116,66,66,Basal + top dressing at 30 DAS,480,Frequent irrigation and wind protection for young plants,Harvest leaves at 40–60 days; successive cuttings possible
+42,Mustard Greens (Sarson),Sandy Loam,40-60,Rabi,70-40-40,105,60,60,Basal + top dressing at 30 DAS,440,Loose soil improves root anchorage and growth,Harvest tender leaves before flowering
+43,Mustard Greens (Sarson),Loam,45-65,Rabi,70-40-40,105,60,60,Basal + top dressing at 30 DAS,400,Loam supports high leaf yields,Harvest by cutting outer leaves or whole plant for market
+44,Mustard Greens (Sarson),Clay Loam,50-70,Rabi,70-40-40,105,60,60,Basal + top dressing at 30 DAS,420,Ensure good drainage to prevent root diseases,Harvest early to maintain tenderness
+45,Mustard Greens (Sarson),Clay,50-70,Rabi,70-40-40,105,60,60,Basal + top dressing at 30 DAS,440,Ridges recommended in heavy clay,Harvest when leaves are young and tender
+46,Mustard Greens (Sarson),Red Soil,45-65,Rabi,70-40-40,105,60,60,Basal + top dressing at 30 DAS,400,Responds well to FYM and potash,Harvest before flowering for best taste
+47,Mustard Greens (Sarson),Black Soil,50-70,Rabi,70-40-40,110,63,63,Basal + top dressing at 30 DAS,460,High moisture retention; ensure surface drainage,Harvest in cool hours to reduce wilting
+48,Mustard Greens (Sarson),Laterite Soil,45-65,Rabi,70-40-40,116,66,66,Basal + top dressing at 30 DAS,420,Improve organic matter and pH before sowing,Harvest leaves in successive pickings
+49,Drumstick (Moringa leaves),Sandy Soil,60-90 (leaf harvest),Perennial,80-40-60,132,66,99,Basal at planting + maintenance N twice yearly,600,Protect young saplings from drought; mulching helps,Harvest tender leaves from 60 days; regular pruning increases leaf yield
+50,Drumstick (Moringa leaves),Sandy Loam,60-90 (leaf harvest),Perennial,80-40-60,120,60,90,Basal at planting + maintenance N twice yearly,550,Well-drained loamy sands favor root growth,Harvest by pruning shoots; avoids defoliation stress
+51,Drumstick (Moringa leaves),Loam,60-90 (leaf harvest),Perennial,80-40-60,120,60,90,Basal at planting + maintenance N twice yearly,500,Loam supports steady growth and leaf quality,Harvest periodically; best leaves are young and tender
+52,Drumstick (Moringa leaves),Clay Loam,70-100 (leaf harvest),Perennial,80-40-60,120,60,90,Basal at planting + maintenance N twice yearly,525,Ensure good drainage to prevent root rot,Harvest selective branches to encourage regrowth
+53,Drumstick (Moringa leaves),Clay,70-100 (leaf harvest),Perennial,80-40-60,120,60,90,Basal at planting + maintenance N twice yearly,550,Use raised planting mounds in heavy clay,Harvest leaves when young for best nutrition
+54,Drumstick (Moringa leaves),Red Soil,60-90 (leaf harvest),Perennial,80-40-60,120,60,90,Basal at planting + maintenance N twice yearly,500,Responds well to deep incorporation of compost,Harvest regularly after establishment for tender shoots
+55,Drumstick (Moringa leaves),Black Soil,70-100 (leaf harvest),Perennial,80-40-60,126,63,95,Basal at planting + maintenance N twice yearly,575,High moisture retention; ensure root zone aeration,Harvest by periodic pruning to maintain tree vigor
+56,Drumstick (Moringa leaves),Laterite Soil,60-90 (leaf harvest),Perennial,80-40-60,132,66,99,Basal at planting + maintenance N twice yearly,525,Improve soil with organic matter and water retention measures,Harvest tender leaves after 2–3 months; regular pruning increases yield
+57,Tomato,Sandy Soil,90-110,Kharif/Rabi,120-60-90,180,90,135,Basal + 2 top dressings at 30 & 60 DAS,600,Frequent irrigation with mulching; supports early growth,Harvest when fruits are fully colored; successive picking
+58,Tomato,Sandy Loam,90-110,Kharif/Rabi,120-60-90,170,85,130,Basal + 2 top dressings at 30 & 60 DAS,550,Loose soil favors root growth; staking improves yield,Harvest ripe fruits regularly for continuous production
+59,Tomato,Loam,100-120,Kharif/Rabi,120-60-90,170,85,130,Basal + 2 top dressings at 30 & 60 DAS,500,Well-drained loam promotes uniform fruiting,Harvest mature fruits; avoid cutting green ones
+60,Tomato,Clay Loam,110-130,Kharif/Rabi,120-60-90,170,85,130,Basal + 2 top dressings at 30 & 60 DAS,520,Ensure drainage to prevent root rot,Harvest in early morning to reduce bruising
+61,Tomato,Clay,110-130,Kharif/Rabi,120-60-90,170,85,130,Basal + 2 top dressings at 30 & 60 DAS,550,Raised beds recommended; compaction may reduce yield,Harvest when fruits reach full red stage
+62,Tomato,Red Soil,95-115,Kharif/Rabi,120-60-90,170,85,130,Basal + 2 top dressings at 30 & 60 DAS,500,Responds well to FYM and phosphorus,Harvest fruits when firm and fully colored
+63,Tomato,Black Soil,100-120,Kharif/Rabi,120-60-90,175,88,135,Basal + 2 top dressings at 30 & 60 DAS,580,High moisture retention; avoid waterlogging,Harvest regularly to avoid overripe fruits
+64,Tomato,Laterite Soil,95-115,Kharif/Rabi,120-60-90,180,90,135,Basal + 2 top dressings at 30 & 60 DAS,520,Add organic manure to improve fertility,Harvest ripe fruits; prevent sunburn in hot months
+65,Brinjal,Sandy Soil,120-140,Kharif/Rabi,100-50-80,150,75,120,Basal + top dressing at 40 DAS,550,Frequent irrigation; staking reduces fruit breakage,Harvest fruits 45–60 days after flowering; successive picking
+66,Brinjal,Sandy Loam,120-140,Kharif/Rabi,100-50-80,140,70,115,Basal + top dressing at 40 DAS,500,Loose soil improves root penetration,Harvest mature fruits; avoid immature harvesting
+67,Brinjal,Loam,130-150,Kharif/Rabi,100-50-80,140,70,115,Basal + top dressing at 40 DAS,470,Well-drained loam supports flowering and fruit set,Harvest regularly to maintain yield
+68,Brinjal,Clay Loam,135-155,Kharif/Rabi,100-50-80,140,70,115,Basal + top dressing at 40 DAS,490,Ensure drainage; prevent waterlogging,Harvest fully grown fruits; avoid over-mature fruits
+69,Brinjal,Clay,140-160,Kharif/Rabi,100-50-80,140,70,115,Basal + top dressing at 40 DAS,510,Heavy soils may delay flowering; use ridges,Harvest when fruits are firm and shiny
+70,Brinjal,Red Soil,125-145,Kharif/Rabi,100-50-80,140,70,115,Basal + top dressing at 40 DAS,470,Responds well to compost/FYM,Harvest mature fruits; remove diseased ones
+71,Brinjal,Black Soil,130-150,Kharif/Rabi,100-50-80,145,73,120,Basal + top dressing at 40 DAS,520,Moisture retention is good; avoid waterlogging,Harvest regularly to encourage continuous flowering
+72,Brinjal,Laterite Soil,125-145,Kharif/Rabi,100-50-80,150,75,120,Basal + top dressing at 40 DAS,490,Add organic manure to improve fertility,Harvest when fruits are firm; successive picking
+73,Okra,Sandy Soil,55-70,Kharif,70-40-40,105,60,60,Basal + top dressing at 25 DAS,450,Frequent irrigation; avoid water stress,Harvest tender pods every 3–4 days
+74,Okra,Sandy Loam,55-70,Kharif,70-40-40,95,55,55,Basal + top dressing at 25 DAS,420,Loose soil promotes healthy pod formation,Harvest young pods regularly for tenderness
+75,Okra,Loam,60-75,Kharif,70-40-40,95,55,55,Basal + top dressing at 25 DAS,400,Loam supports balanced growth,Harvest pods when 7–10 cm long
+76,Okra,Clay Loam,65-80,Kharif,70-40-40,95,55,55,Basal + top dressing at 25 DAS,420,Ensure drainage to prevent fungal diseases,Harvest tender pods frequently
+77,Okra,Clay,65-80,Kharif,70-40-40,95,55,55,Basal + top dressing at 25 DAS,440,Raised beds recommended for heavy soils,Harvest regularly to avoid fibrous pods
+78,Okra,Red Soil,60-75,Kharif,70-40-40,95,55,55,Basal + top dressing at 25 DAS,400,Responds well to organic manure,Harvest tender pods 2–3 times per week
+79,Okra,Black Soil,65-80,Kharif,70-40-40,100,58,60,Basal + top dressing at 25 DAS,460,High moisture retention; avoid waterlogging,Harvest every 2–3 days for young pods
+80,Okra,Laterite Soil,60-75,Kharif,70-40-40,105,60,60,Basal + top dressing at 25 DAS,420,Add compost to improve fertility,Harvest pods when tender and straight
+81,Capsicum,Sandy Soil,100-120,Kharif/Rabi,120-60-80,180,90,120,Basal + 2 top dressings at 30 & 60 DAS,550,Frequent irrigation and staking for uniform fruits,Harvest mature fruits when fully colored; successive picking
+82,Capsicum,Sandy Loam,100-120,Kharif/Rabi,120-60-80,170,85,115,Basal + 2 top dressings at 30 & 60 DAS,520,Loose soil promotes good root growth,Harvest mature fruits regularly to avoid overripe pods
+83,Capsicum,Loam,110-130,Kharif/Rabi,120-60-80,170,85,115,Basal + 2 top dressings at 30 & 60 DAS,500,Well-drained loam ensures high yield,Harvest fruits when firm and fully colored
+84,Capsicum,Clay Loam,115-135,Kharif/Rabi,120-60-80,170,85,115,Basal + 2 top dressings at 30 & 60 DAS,520,Ensure proper drainage; mulch to retain moisture,Harvest fruits periodically to maintain fruit set
+85,Capsicum,Clay,115-135,Kharif/Rabi,120-60-80,170,85,115,Basal + 2 top dressings at 30 & 60 DAS,540,Raised beds recommended for heavy soils,Harvest mature fruits; avoid bruising
+86,Capsicum,Red Soil,105-125,Kharif/Rabi,120-60-80,170,85,115,Basal + 2 top dressings at 30 & 60 DAS,500,Responds well to compost and phosphorus,Harvest when fruits reach full size and color
+87,Capsicum,Black Soil,110-130,Kharif/Rabi,120-60-80,175,88,120,Basal + 2 top dressings at 30 & 60 DAS,560,High moisture retention; prevent waterlogging,Harvest fruits regularly for continuous production
+88,Capsicum,Laterite Soil,105-125,Kharif/Rabi,120-60-80,180,90,120,Basal + 2 top dressings at 30 & 60 DAS,520,Add organic matter to improve fertility,Harvest mature fruits; protect from sunburn
+89,Chilli (green),Sandy Soil,90-110,Kharif/Rabi,100-50-60,150,75,90,Basal + top dressing at 30 DAS,500,Frequent irrigation and staking for upright growth,Harvest green fruits 60–80 days after transplanting
+90,Chilli (green),Sandy Loam,90-110,Kharif/Rabi,100-50-60,140,70,85,Basal + top dressing at 30 DAS,470,Loose soil promotes strong root system,Harvest green fruits periodically to avoid overripe pods
+91,Chilli (green),Loam,100-120,Kharif/Rabi,100-50-60,140,70,85,Basal + top dressing at 30 DAS,450,Well-drained loam favors fruit setting,Harvest tender green fruits regularly
+92,Chilli (green),Clay Loam,105-125,Kharif/Rabi,100-50-60,140,70,85,Basal + top dressing at 30 DAS,470,Ensure drainage to prevent fungal issues,Harvest green fruits; cut stems carefully
+93,Chilli (green),Clay,105-125,Kharif/Rabi,100-50-60,140,70,85,Basal + top dressing at 30 DAS,490,Raised beds recommended in heavy clay,Harvest fruits before turning red for green market
+94,Chilli (green),Red Soil,95-115,Kharif/Rabi,100-50-60,140,70,85,Basal + top dressing at 30 DAS,450,Responds well to FYM and phosphorus,Harvest regularly to maintain continuous yield
+95,Chilli (green),Black Soil,100-120,Kharif/Rabi,100-50-60,145,73,90,Basal + top dressing at 30 DAS,510,High moisture retention; surface drainage essential,Harvest green fruits frequently
+96,Chilli (green),Laterite Soil,95-115,Kharif/Rabi,100-50-60,150,75,90,Basal + top dressing at 30 DAS,470,Add compost to improve fertility,Harvest tender green fruits periodically
+97,Bitter gourd,Sandy Soil,60-80,Kharif,80-40-60,120,60,90,Basal + top dressing at 25 DAS,500,Supports vertical growth on trellis; frequent irrigation,Harvest tender fruits 50–60 days after flowering
+98,Bitter gourd,Sandy Loam,60-80,Kharif,80-40-60,110,55,85,Basal + top dressing at 25 DAS,470,Loose soil ensures quick root growth,Harvest fruits when green and firm
+99,Bitter gourd,Loam,65-85,Kharif,80-40-60,110,55,85,Basal + top dressing at 25 DAS,450,Well-drained loam favors uniform fruiting,Harvest frequently to encourage more flowering
+100,Bitter gourd,Clay Loam,70-90,Kharif,80-40-60,110,55,85,Basal + top dressing at 25 DAS,470,Ensure drainage; prevent waterlogging,Harvest fruits before seeds develop fully
+101,Bitter gourd,Clay,70-90,Kharif,80-40-60,110,55,85,Basal + top dressing at 25 DAS,490,Use raised beds; avoid heavy soil compaction,Harvest tender fruits regularly
+102,Bitter gourd,Red Soil,65-85,Kharif,80-40-60,110,55,85,Basal + top dressing at 25 DAS,450,Responds well to organic amendments,Harvest fruits when bright green and firm
+103,Bitter gourd,Black Soil,70-90,Kharif,80-40-60,115,58,90,Basal + top dressing at 25 DAS,510,High moisture retention; prevent fungal attack,Harvest regularly to avoid overripe bitter fruits
+104,Bitter gourd,Laterite Soil,65-85,Kharif,80-40-60,120,60,90,Basal + top dressing at 25 DAS,470,Add compost to improve fertility,Harvest tender fruits periodically
+105,Snake gourd,Sandy Soil,80-100,Kharif,70-35-60,105,53,90,Basal + top dressing at 30 DAS,480,Supports trellis growth; frequent irrigation,Harvest fruits 55–65 days after flowering
+106,Snake gourd,Sandy Loam,80-100,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,450,Loose soil encourages vigorous growth,Harvest tender fruits regularly for market
+107,Snake gourd,Loam,85-105,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,430,Well-drained loam gives uniform fruiting,Harvest fruits when 30–40 cm long
+108,Snake gourd,Clay Loam,90-110,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,450,Ensure proper drainage,Harvest tender fruits periodically
+109,Snake gourd,Clay,90-110,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,470,Raised beds recommended for heavy soils,Harvest regularly for best quality
+110,Snake gourd,Red Soil,85-105,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,430,Responds well to compost,Harvest fruits when tender
+111,Snake gourd,Black Soil,90-110,Kharif,70-35-60,100,50,90,Basal + top dressing at 30 DAS,490,High moisture retention; avoid waterlogging,Harvest fruits before seeds harden
+112,Snake gourd,Laterite Soil,85-105,Kharif,70-35-60,105,53,90,Basal + top dressing at 30 DAS,450,Add organic matter for fertility,Harvest tender fruits periodically
+113,Bottle gourd,Sandy Soil,80-100,Kharif,70-35-60,105,53,90,Basal + top dressing at 30 DAS,480,Supports trellis growth; frequent irrigation,Harvest fruits 55–65 days after flowering
+114,Bottle gourd,Sandy Loam,80-100,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,450,Loose soil promotes vigorous growth,Harvest tender fruits regularly for market
+115,Bottle gourd,Loam,85-105,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,430,Well-drained loam ensures uniform fruiting,Harvest fruits when 30–40 cm long
+116,Bottle gourd,Clay Loam,90-110,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,450,Ensure drainage to prevent fungal diseases,Harvest tender fruits periodically
+117,Bottle gourd,Clay,90-110,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,470,Raised beds recommended in heavy clay,Harvest regularly for quality fruits
+118,Bottle gourd,Red Soil,85-105,Kharif,70-35-60,95,48,85,Basal + top dressing at 30 DAS,430,Responds well to compost/FYM,Harvest fruits when tender
+119,Bottle gourd,Black Soil,90-110,Kharif,70-35-60,100,50,90,Basal + top dressing at 30 DAS,490,High moisture retention; surface drainage essential,Harvest fruits before seeds harden
+120,Bottle gourd,Laterite Soil,85-105,Kharif,70-35-60,105,53,90,Basal + top dressing at 30 DAS,450,Add organic matter to improve fertility,Harvest tender fruits periodically
+121,Ridge gourd,Sandy Soil,70-90,Kharif,70-35-60,105,53,90,Basal + top dressing at 25 DAS,480,Supports trellis growth; frequent irrigation,Harvest tender fruits 50–60 days after flowering
+122,Ridge gourd,Sandy Loam,70-90,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,450,Loose soil encourages vigorous growth,Harvest young fruits regularly for market
+123,Ridge gourd,Loam,75-95,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,430,Well-drained loam gives uniform fruiting,Harvest fruits when 30–40 cm long
+124,Ridge gourd,Clay Loam,80-100,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,450,Ensure proper drainage,Harvest tender fruits periodically
+125,Ridge gourd,Clay,80-100,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,470,Raised beds recommended for heavy soils,Harvest regularly for best quality
+126,Ridge gourd,Red Soil,75-95,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,430,Responds well to compost/FYM,Harvest fruits when tender
+127,Ridge gourd,Black Soil,80-100,Kharif,70-35-60,100,50,90,Basal + top dressing at 25 DAS,490,High moisture retention; avoid waterlogging,Harvest fruits before seeds harden
+128,Ridge gourd,Laterite Soil,75-95,Kharif,70-35-60,105,53,90,Basal + top dressing at 25 DAS,450,Add organic matter to improve fertility,Harvest tender fruits periodically
+129,Sponge gourd,Sandy Soil,70-90,Kharif,70-35-60,105,53,90,Basal + top dressing at 25 DAS,480,Supports trellis growth; frequent irrigation,Harvest tender fruits 50–60 days after flowering
+130,Sponge gourd,Sandy Loam,70-90,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,450,Loose soil encourages vigorous growth,Harvest young fruits regularly for market
+131,Sponge gourd,Loam,75-95,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,430,Well-drained loam gives uniform fruiting,Harvest fruits when 30–40 cm long
+132,Sponge gourd,Clay Loam,80-100,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,450,Ensure proper drainage,Harvest tender fruits periodically
+133,Sponge gourd,Clay,80-100,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,470,Raised beds recommended for heavy soils,Harvest regularly for best quality
+134,Sponge gourd,Red Soil,75-95,Kharif,70-35-60,95,48,85,Basal + top dressing at 25 DAS,430,Responds well to compost/FYM,Harvest fruits when tender
+135,Sponge gourd,Black Soil,80-100,Kharif,70-35-60,100,50,90,Basal + top dressing at 25 DAS,490,High moisture retention; avoid waterlogging,Harvest fruits before seeds harden
+136,Sponge gourd,Laterite Soil,75-95,Kharif,70-35-60,105,53,90,Basal + top dressing at 25 DAS,450,Add organic matter to improve fertility,Harvest tender fruits periodically
+137,Pumpkin,Sandy Soil,90-120,Kharif,80-40-60,120,60,90,Basal + 2 top dressings at 30 & 60 DAS,550,Supports vine growth; frequent irrigation,Harvest mature fruits 90–120 days after sowing
+138,Pumpkin,Sandy Loam,90-120,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,520,Loose soil encourages uniform fruiting,Harvest mature fruits regularly for market
+139,Pumpkin,Loam,100-130,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,500,Well-drained loam favors large fruit development,Harvest fruits when rind hardens and color matures
+140,Pumpkin,Clay Loam,110-140,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,520,Ensure drainage to prevent root rot,Harvest mature fruits periodically
+141,Pumpkin,Clay,110-140,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,540,Raised beds recommended in heavy soils,Harvest mature fruits when fully colored
+142,Pumpkin,Red Soil,95-125,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,500,Responds well to organic amendments,Harvest fruits when rind hard and firm
+143,Pumpkin,Black Soil,100-130,Kharif,80-40-60,115,58,90,Basal + 2 top dressings at 30 & 60 DAS,560,High moisture retention; prevent waterlogging,Harvest fruits at full maturity
+144,Pumpkin,Laterite Soil,95-125,Kharif,80-40-60,120,60,90,Basal + 2 top dressings at 30 & 60 DAS,520,Add compost to improve fertility,Harvest mature fruits periodically
+145,Cucumber,Sandy Soil,50-70,Kharif,70-35-60,105,53,90,Basal + top dressing at 20 DAS,450,Supports trellis growth; frequent irrigation,Harvest tender fruits 45–55 days after flowering
+146,Cucumber,Sandy Loam,50-70,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,420,Loose soil encourages vigorous vine growth,Harvest fruits regularly for market
+147,Cucumber,Loam,55-75,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,400,Well-drained loam ensures uniform fruiting,Harvest fruits when 15–20 cm long
+148,Cucumber,Clay Loam,60-80,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,420,Ensure proper drainage; avoid waterlogging,Harvest tender fruits periodically
+149,Cucumber,Clay,60-80,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,440,Raised beds recommended in heavy clay,Harvest fruits regularly to maintain quality
+150,Cucumber,Red Soil,55-75,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,400,Responds well to FYM and compost,Harvest tender fruits periodically
+151,Cucumber,Black Soil,60-80,Kharif,70-35-60,100,50,90,Basal + top dressing at 20 DAS,460,High moisture retention; prevent fungal attack,Harvest fruits before seeds harden
+152,Cucumber,Laterite Soil,55-75,Kharif,70-35-60,105,53,90,Basal + top dressing at 20 DAS,420,Add organic matter to improve fertility,Harvest tender fruits periodically
+153,Ash gourd,Sandy Soil,100-120,Kharif,80-40-60,120,60,90,Basal + 2 top dressings at 30 & 60 DAS,550,Supports vine growth; frequent irrigation,Harvest mature fruits 90–120 days after sowing
+154,Ash gourd,Sandy Loam,100-120,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,520,Loose soil encourages uniform fruiting,Harvest mature fruits regularly
+155,Ash gourd,Loam,110-130,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,500,Well-drained loam favors large fruit development,Harvest fruits when rind hardens
+156,Ash gourd,Clay Loam,110-140,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,520,Ensure drainage to prevent root rot,Harvest mature fruits periodically
+157,Ash gourd,Clay,110-140,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,540,Raised beds recommended in heavy soils,Harvest mature fruits when fully colored
+158,Ash gourd,Red Soil,95-125,Kharif,80-40-60,110,55,85,Basal + 2 top dressings at 30 & 60 DAS,500,Responds well to organic amendments,Harvest fruits when rind hard and firm
+159,Ash gourd,Black Soil,100-130,Kharif,80-40-60,115,58,90,Basal + 2 top dressings at 30 & 60 DAS,560,High moisture retention; prevent waterlogging,Harvest fruits at full maturity
+160,Ash gourd,Laterite Soil,95-125,Kharif,80-40-60,120,60,90,Basal + 2 top dressings at 30 & 60 DAS,520,Add compost to improve fertility,Harvest mature fruits periodically
+161,Ivy gourd (Tindora),Sandy Soil,50-70,Kharif,70-35-60,105,53,90,Basal + top dressing at 20 DAS,450,Supports trellis growth; frequent irrigation,Harvest tender fruits 45–55 days after flowering
+162,Ivy gourd (Tindora),Sandy Loam,50-70,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,420,Loose soil encourages vigorous vine growth,Harvest fruits regularly for market
+163,Ivy gourd (Tindora),Loam,55-75,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,400,Well-drained loam ensures uniform fruiting,Harvest fruits when 10–15 cm long
+164,Ivy gourd (Tindora),Clay Loam,60-80,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,420,Ensure proper drainage; avoid waterlogging,Harvest tender fruits periodically
+165,Ivy gourd (Tindora),Clay,60-80,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,440,Raised beds recommended in heavy clay,Harvest fruits regularly to maintain quality
+166,Ivy gourd (Tindora),Red Soil,55-75,Kharif,70-35-60,95,48,85,Basal + top dressing at 20 DAS,400,Responds well to FYM and compost,Harvest tender fruits periodically
+167,Ivy gourd (Tindora),Black Soil,60-80,Kharif,70-35-60,100,50,90,Basal + top dressing at 20 DAS,460,High moisture retention; prevent fungal attack,Harvest fruits before seeds harden
+168,Ivy gourd (Tindora),Laterite Soil,55-75,Kharif,70-35-60,105,53,90,Basal + top dressing at 20 DAS,420,Add organic matter to improve fertility,Harvest tender fruits periodically
+169,Cabbage,Sandy Soil,80-100,Rabi,100-50-50,150,75,75,Basal + top dressing at 30 DAS,500,Frequent irrigation; loose sandy soil supports head formation,Harvest when heads are firm and compact
+170,Cabbage,Sandy Loam,80-100,Rabi,100-50-50,140,70,70,Basal + top dressing at 30 DAS,470,Loose soil improves root development,Harvest mature heads; avoid splitting
+171,Cabbage,Loam,90-110,Rabi,100-50-50,140,70,70,Basal + top dressing at 30 DAS,450,Well-drained loam ensures uniform head growth,Harvest heads when firm and tight
+172,Cabbage,Clay Loam,95-115,Rabi,100-50-50,140,70,70,Basal + top dressing at 30 DAS,470,Ensure drainage; prevent waterlogging,Harvest heads when fully formed
+173,Cabbage,Clay,95-115,Rabi,100-50-50,140,70,70,Basal + top dressing at 30 DAS,490,Raised beds recommended in heavy soils,Harvest heads before splitting
+174,Cabbage,Red Soil,85-105,Rabi,100-50-50,140,70,70,Basal + top dressing at 30 DAS,450,Responds well to compost/FYM,Harvest firm heads; remove diseased leaves
+175,Cabbage,Black Soil,90-110,Rabi,100-50-50,145,73,75,Basal + top dressing at 30 DAS,510,High moisture retention; prevent waterlogging,Harvest when heads are compact
+176,Cabbage,Laterite Soil,85-105,Rabi,100-50-50,150,75,75,Basal + top dressing at 30 DAS,470,Add organic matter to improve fertility,Harvest firm heads; avoid splitting
+177,Cauliflower,Sandy Soil,90-110,Rabi,120-60-60,180,90,90,Basal + top dressing at 30 & 60 DAS,520,Frequent irrigation; loose soil supports curd formation,Harvest when curds are compact and white
+178,Cauliflower,Sandy Loam,90-110,Rabi,120-60-60,170,85,85,Basal + top dressing at 30 & 60 DAS,490,Loose soil favors uniform growth,Harvest curds when firm; avoid yellowing
+179,Cauliflower,Loam,100-120,Rabi,120-60-60,170,85,85,Basal + top dressing at 30 & 60 DAS,470,Well-drained loam supports curd development,Harvest mature curds; tie leaves if needed
+180,Cauliflower,Clay Loam,105-125,Rabi,120-60-60,170,85,85,Basal + top dressing at 30 & 60 DAS,490,Ensure drainage; mulch to retain moisture,Harvest curds when tight and compact
+181,Cauliflower,Clay,105-125,Rabi,120-60-60,170,85,85,Basal + top dressing at 30 & 60 DAS,510,Raised beds recommended in heavy soils,Harvest curds before yellowing
+182,Cauliflower,Red Soil,95-115,Rabi,120-60-60,170,85,85,Basal + top dressing at 30 & 60 DAS,470,Responds well to FYM and compost,Harvest firm curds; remove outer leaves
+183,Cauliflower,Black Soil,100-120,Rabi,120-60-60,175,88,90,Basal + top dressing at 30 & 60 DAS,530,High moisture retention; avoid waterlogging,Harvest mature curds periodically
+184,Cauliflower,Laterite Soil,95-115,Rabi,120-60-60,180,90,90,Basal + top dressing at 30 & 60 DAS,490,Add organic matter to improve fertility,Harvest firm curds; avoid overmature curds
+185,Broccoli,Sandy Soil,85-105,Rabi,110-55-70,165,83,105,Basal + top dressing at 30 & 60 DAS,500,Supports firm head formation; frequent irrigation,Harvest central heads when compact
+186,Broccoli,Sandy Loam,85-105,Rabi,110-55-70,155,78,100,Basal + top dressing at 30 & 60 DAS,470,Loose soil improves root and head growth,Harvest mature heads; cut early side shoots for prolonging yield
+187,Broccoli,Loam,95-115,Rabi,110-55-70,155,78,100,Basal + top dressing at 30 & 60 DAS,450,Well-drained loam favors uniform head growth,Harvest central heads when firm
+188,Broccoli,Clay Loam,100-120,Rabi,110-55-70,155,78,100,Basal + top dressing at 30 & 60 DAS,470,Ensure proper drainage; prevent waterlogging,Harvest main head before side shoots develop
+189,Broccoli,Clay,100-120,Rabi,110-55-70,155,78,100,Basal + top dressing at 30 & 60 DAS,490,Raised beds recommended for heavy soils,Harvest central head when firm; remove yellow leaves
+190,Broccoli,Red Soil,90-110,Rabi,110-55-70,155,78,100,Basal + top dressing at 30 & 60 DAS,450,Responds well to FYM and compost,Harvest central head when compact
+191,Broccoli,Black Soil,95-115,Rabi,110-55-70,160,80,105,Basal + top dressing at 30 & 60 DAS,510,High moisture retention; avoid waterlogging,Harvest heads regularly to prolong harvest
+192,Broccoli,Laterite Soil,90-110,Rabi,110-55-70,165,83,105,Basal + top dressing at 30 & 60 DAS,470,Add organic matter to improve fertility,Harvest central head; successive side shoots can be harvested
+193,Knol-khol,Sandy Soil,80-100,Rabi,100-50-50,150,75,75,Basal + top dressing at 25 DAS,500,Loose soil favors bulb formation; frequent irrigation,Harvest when bulbs are firm and compact
+194,Knol-khol,Sandy Loam,80-100,Rabi,100-50-50,140,70,70,Basal + top dressing at 25 DAS,470,Loose soil supports even growth,Harvest mature bulbs before splitting
+195,Knol-khol,Loam,90-110,Rabi,100-50-50,140,70,70,Basal + top dressing at 25 DAS,450,Well-drained loam ensures uniform bulb growth,Harvest bulbs when firm and fully formed
+196,Knol-khol,Clay Loam,95-115,Rabi,100-50-50,140,70,70,Basal + top dressing at 25 DAS,470,Ensure drainage; prevent waterlogging,Harvest bulbs when mature
+197,Knol-khol,Clay,95-115,Rabi,100-50-50,140,70,70,Basal + top dressing at 25 DAS,490,Raised beds recommended for heavy soils,Harvest bulbs before splitting
+198,Knol-khol,Red Soil,85-105,Rabi,100-50-50,140,70,70,Basal + top dressing at 25 DAS,450,Responds well to compost/FYM,Harvest firm bulbs; remove diseased leaves
+199,Knol-khol,Black Soil,90-110,Rabi,100-50-50,145,73,75,Basal + top dressing at 25 DAS,510,High moisture retention; avoid waterlogging,Harvest mature bulbs regularly
+200,Knol-khol,Laterite Soil,85-105,Rabi,100-50-50,150,75,75,Basal + top dressing at 25 DAS,470,Add organic matter to improve fertility,Harvest firm bulbs; avoid splitting
+201,Cluster beans,Sandy Soil,60-80,Kharif,60-30-40,90,45,60,Basal + top dressing at 25 DAS,400,Supports trellis growth; frequent irrigation,Harvest tender pods 50–60 days after sowing
+202,Cluster beans,Sandy Loam,60-80,Kharif,60-30-40,80,40,55,Basal + top dressing at 25 DAS,370,Loose soil encourages healthy root growth,Harvest young pods regularly for market
+203,Cluster beans,Loam,65-85,Kharif,60-30-40,80,40,55,Basal + top dressing at 25 DAS,350,Well-drained loam ensures uniform flowering,Harvest pods when 10–12 cm long
+204,Cluster beans,Clay Loam,70-90,Kharif,60-30-40,80,40,55,Basal + top dressing at 25 DAS,370,Ensure proper drainage; prevent waterlogging,Harvest tender pods periodically
+205,Cluster beans,Clay,70-90,Kharif,60-30-40,80,40,55,Basal + top dressing at 25 DAS,390,Raised beds recommended in heavy soils,Harvest pods regularly for best quality
+206,Cluster beans,Red Soil,65-85,Kharif,60-30-40,80,40,55,Basal + top dressing at 25 DAS,350,Responds well to compost/FYM,Harvest tender pods 2–3 times per week
+207,Cluster beans,Black Soil,70-90,Kharif,60-30-40,85,43,60,Basal + top dressing at 25 DAS,410,High moisture retention; avoid waterlogging,Harvest pods before they become fibrous
+208,Cluster beans,Laterite Soil,65-85,Kharif,60-30-40,90,45,60,Basal + top dressing at 25 DAS,370,Add organic matter to improve fertility,Harvest tender pods periodically
+209,Sword beans,Sandy Soil,90-110,Kharif,70-40-60,105,60,90,Basal + top dressing at 30 DAS,500,Supports vertical growth; frequent irrigation,Harvest tender pods 60–80 days after sowing
+210,Sword beans,Sandy Loam,90-110,Kharif,70-40-60,95,55,85,Basal + top dressing at 30 DAS,470,Loose soil promotes root development,Harvest pods when young and tender
+211,Sword beans,Loam,95-115,Kharif,70-40-60,95,55,85,Basal + top dressing at 30 DAS,450,Well-drained loam supports flowering,Harvest pods regularly to maintain quality
+212,Sword beans,Clay Loam,100-120,Kharif,70-40-60,95,55,85,Basal + top dressing at 30 DAS,470,Ensure proper drainage; prevent fungal diseases,Harvest tender pods frequently
+213,Sword beans,Clay,100-120,Kharif,70-40-60,95,55,85,Basal + top dressing at 30 DAS,490,Raised beds recommended for heavy soils,Harvest pods when firm and young
+214,Sword beans,Red Soil,95-115,Kharif,70-40-60,95,55,85,Basal + top dressing at 30 DAS,450,Responds well to organic amendments,Harvest young pods periodically
+215,Sword beans,Black Soil,100-120,Kharif,70-40-60,100,58,90,Basal + top dressing at 30 DAS,510,High moisture retention; avoid waterlogging,Harvest tender pods regularly
+216,Sword beans,Laterite Soil,95-115,Kharif,70-40-60,105,60,90,Basal + top dressing at 30 DAS,470,Add compost to improve fertility,Harvest young pods frequently
+217,Peas,Sandy Soil,60-80,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,400,Cool climate crop; supports trellis growth,Harvest pods 50–60 days after sowing
+218,Peas,Sandy Loam,60-80,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Loose soil encourages root growth,Harvest young pods regularly for market
+219,Peas,Loam,65-85,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Well-drained loam ensures uniform pod set,Harvest pods when 7–10 cm long
+220,Peas,Clay Loam,70-90,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Ensure drainage; avoid waterlogging,Harvest pods periodically to maintain quality
+221,Peas,Clay,70-90,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,390,Raised beds recommended in heavy soils,Harvest pods regularly for best quality
+222,Peas,Red Soil,65-85,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Responds well to FYM/compost,Harvest tender pods 2–3 times per week
+223,Peas,Black Soil,70-90,Rabi,60-30-40,85,43,60,Basal + top dressing at 20 DAS,410,High moisture retention; avoid waterlogging,Harvest pods before they become fibrous
+224,Peas,Laterite Soil,65-85,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,370,Add organic matter to improve fertility,Harvest tender pods periodically
+225,Garden pea,Sandy Soil,60-80,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,400,Cool season crop; supports trellis,Harvest pods 50–60 days after sowing
+226,Garden pea,Sandy Loam,60-80,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Loose soil improves root development,Harvest tender pods regularly
+227,Garden pea,Loam,65-85,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Well-drained loam ensures uniform pod set,Harvest pods when 7–10 cm long
+228,Garden pea,Clay Loam,70-90,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Ensure proper drainage,Harvest pods periodically for quality
+229,Garden pea,Clay,70-90,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,390,Raised beds recommended in heavy soils,Harvest pods regularly for best quality
+230,Garden pea,Red Soil,65-85,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Responds well to compost/FYM,Harvest tender pods periodically
+231,Garden pea,Black Soil,70-90,Rabi,60-30-40,85,43,60,Basal + top dressing at 20 DAS,410,High moisture retention; avoid waterlogging,Harvest pods before fibrous
+232,Garden pea,Laterite Soil,65-85,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,370,Add organic matter to improve fertility,Harvest tender pods regularly
+233,Snow pea,Sandy Soil,50-70,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,400,Cool climate crop; supports trellis,Harvest pods 45–55 days after sowing
+234,Snow pea,Sandy Loam,50-70,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Loose soil favors root growth,Harvest young pods regularly
+235,Snow pea,Loam,55-75,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Well-drained loam ensures uniform pod development,Harvest pods when 7–10 cm long
+236,Snow pea,Clay Loam,60-80,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Ensure drainage; avoid waterlogging,Harvest pods periodically for quality
+237,Snow pea,Clay,60-80,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,390,Raised beds recommended in heavy soils,Harvest pods regularly
+238,Snow pea,Red Soil,55-75,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Responds well to FYM/compost,Harvest tender pods periodically
+239,Snow pea,Black Soil,60-80,Rabi,60-30-40,85,43,60,Basal + top dressing at 20 DAS,410,High moisture retention; avoid waterlogging,Harvest pods before fibrous
+240,Snow pea,Laterite Soil,55-75,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,370,Add organic matter to improve fertility,Harvest tender pods regularly
+241,Snap pea,Sandy Soil,50-70,Rabi,60-30-40,90,45,60,Basal + top dressing at 20 DAS,400,Cool climate crop; supports trellis,Harvest pods 45–55 days after sowing
+242,Snap pea,Sandy Loam,50-70,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Loose soil favors root growth,Harvest young pods regularly
+243,Snap pea,Loam,55-75,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,350,Well-drained loam ensures uniform pod development,Harvest pods when 7–10 cm long
+244,Snap pea,Clay Loam,60-80,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,370,Ensure drainage; avoid waterlogging,Harvest pods periodically for quality
+245,Snap pea,Clay,60-80,Rabi,60-30-40,80,40,55,Basal + top dressing at 20 DAS,390,Raised beds recommended in heavy soils,Harvest pods regularly
+247,Mango,Sandy Soil,1500-1800,Hot & Dry,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained sandy soil promotes root growth,Harvest fruits when fully colored and aromatic
+248,Mango,Sandy Loam,1500-1800,Hot & Dry,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil supports strong trees,Harvest mature fruits at optimum ripeness
+249,Mango,Loam,1500-1800,Hot & Dry,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam promotes healthy growth,Harvest fruits when skin color changes and aroma develops
+250,Mango,Clay Loam,1500-1800,Hot & Dry,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure drainage to avoid root rot,Harvest fruits when mature; avoid overripe fruits
+251,Mango,Clay,1500-1800,Hot & Dry,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended in heavy soils,Harvest fully colored fruits
+252,Mango,Red Soil,1500-1800,Hot & Dry,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to FYM/compost,Harvest fruits when skin color and aroma indicate ripeness
+253,Mango,Black Soil,1500-1800,Hot & Dry,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest mature fruits at peak ripeness
+254,Mango,Laterite Soil,1500-1800,Hot & Dry,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest fruits when skin color changes and aroma develops
+255,Banana,Sandy Soil,365-540,Kharif,250-150-200,750,450,600,Basal + 3 top dressings (every 4 months),High,Supports mulching; frequent irrigation required,Harvest fruits when bunches are full and fingers plump
+256,Banana,Sandy Loam,365-540,Kharif,250-150-200,700,420,560,Basal + 3 top dressings (every 4 months),High,Loose soil supports vigorous growth,Harvest mature fruits when fully filled
+257,Banana,Loam,365-540,Kharif,250-150-200,700,420,560,Basal + 3 top dressings (every 4 months),High,Well-drained loam favors bunch formation,Harvest fruits when mature but still green for transport
+258,Banana,Clay Loam,365-540,Kharif,250-150-200,700,420,560,Basal + 3 top dressings (every 4 months),High,Ensure drainage; avoid waterlogging,Harvest bunches when fingers fully developed
+259,Banana,Clay,365-540,Kharif,250-150-200,700,420,560,Basal + 3 top dressings (every 4 months),High,Raised beds recommended,Harvest fruits when mature
+260,Banana,Red Soil,365-540,Kharif,250-150-200,700,420,560,Basal + 3 top dressings (every 4 months),High,Responds well to compost/FYM,Harvest mature fruits periodically
+261,Banana,Black Soil,365-540,Kharif,250-150-200,750,450,600,Basal + 3 top dressings (every 4 months),High,High moisture retention; prevent waterlogging,Harvest fruits when fully developed
+262,Banana,Laterite Soil,365-540,Kharif,250-150-200,750,450,600,Basal + 3 top dressings (every 4 months),High,Add organic matter; maintain irrigation,Harvest mature fruits periodically
+263,Guava,Sandy Soil,730-1095,Rabi/ Kharif,150-80-120,450,240,360,Basal + top dressing at 6 months,Moderate,Well-drained sandy soil; regular pruning improves yield,Harvest fruits when fully colored and aromatic
+264,Guava,Sandy Loam,730-1095,Rabi/ Kharif,150-80-120,420,225,340,Basal + top dressing at 6 months,Moderate,Loose soil supports good root growth,Harvest mature fruits with aroma and color
+265,Guava,Loam,730-1095,Rabi/ Kharif,150-80-120,420,225,340,Basal + top dressing at 6 months,Moderate,Well-drained loam favors healthy growth,Harvest fruits when skin color indicates ripeness
+266,Guava,Clay Loam,730-1095,Rabi/ Kharif,150-80-120,420,225,340,Basal + top dressing at 6 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+267,Guava,Clay,730-1095,Rabi/ Kharif,150-80-120,420,225,340,Basal + top dressing at 6 months,Moderate,Raised beds recommended in heavy soils,Harvest mature fruits
+268,Guava,Red Soil,730-1095,Rabi/ Kharif,150-80-120,420,225,340,Basal + top dressing at 6 months,Moderate,Responds well to FYM/compost,Harvest fruits when fully colored
+269,Guava,Black Soil,730-1095,Rabi/ Kharif,150-80-120,450,240,360,Basal + top dressing at 6 months,Moderate,High moisture retention; avoid waterlogging,Harvest mature fruits periodically
+270,Guava,Laterite Soil,730-1095,Rabi/ Kharif,150-80-120,450,240,360,Basal + top dressing at 6 months,Moderate,Add organic matter to improve fertility,Harvest fruits when skin color develops
+271,Papaya,Sandy Soil,270-365,Kharif,180-90-120,540,270,360,Basal + 2 top dressings at 3 & 6 months,High,Supports mulching; frequent irrigation,Harvest fruits when fully elongated and colored
+272,Papaya,Sandy Loam,270-365,Kharif,180-90-120,500,250,340,Basal + 2 top dressings at 3 & 6 months,High,Loose soil supports strong root development,Harvest fruits when mature but firm
+273,Papaya,Loam,270-365,Kharif,180-90-120,500,250,340,Basal + 2 top dressings at 3 & 6 months,High,Well-drained loam ensures good growth,Harvest fruits periodically as they mature
+274,Papaya,Clay Loam,270-365,Kharif,180-90-120,500,250,340,Basal + 2 top dressings at 3 & 6 months,High,Ensure drainage to prevent waterlogging,Harvest mature fruits regularly
+275,Papaya,Clay,270-365,Kharif,180-90-120,500,250,340,Basal + 2 top dressings at 3 & 6 months,High,Raised beds recommended,Harvest fruits when elongated and firm
+276,Papaya,Red Soil,270-365,Kharif,180-90-120,500,250,340,Basal + 2 top dressings at 3 & 6 months,High,Responds well to compost/FYM,Harvest mature fruits periodically
+277,Papaya,Black Soil,270-365,Kharif,180-90-120,540,270,360,Basal + 2 top dressings at 3 & 6 months,High,High moisture retention; avoid waterlogging,Harvest fruits when mature
+278,Papaya,Laterite Soil,270-365,Kharif,180-90-120,540,270,360,Basal + 2 top dressings at 3 & 6 months,High,Add organic matter to improve fertility,Harvest mature fruits regularly
+279,Pineapple,Sandy Soil,540-730,Kharif,120-60-80,360,180,240,Basal + top dressing at 3 & 6 months,Moderate,Well-drained sandy soil supports root development,Harvest fruits when fully ripe and yellowish
+280,Pineapple,Sandy Loam,540-730,Kharif,120-60-80,340,170,225,Basal + top dressing at 3 & 6 months,Moderate,Loose soil promotes uniform growth,Harvest mature fruits when sweet aroma develops
+281,Pineapple,Loam,540-730,Kharif,120-60-80,340,170,225,Basal + top dressing at 3 & 6 months,Moderate,Well-drained loam favors healthy plant growth,Harvest fruits when outer skin turns yellow
+282,Pineapple,Clay Loam,540-730,Kharif,120-60-80,340,170,225,Basal + top dressing at 3 & 6 months,Moderate,Ensure drainage to prevent root rot,Harvest mature fruits periodically
+283,Pineapple,Clay,540-730,Kharif,120-60-80,340,170,225,Basal + top dressing at 3 & 6 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when ripe
+284,Pineapple,Red Soil,540-730,Kharif,120-60-80,340,170,225,Basal + top dressing at 3 & 6 months,Moderate,Responds well to FYM/compost,Harvest mature fruits when color and aroma develop
+285,Pineapple,Black Soil,540-730,Kharif,120-60-80,360,180,240,Basal + top dressing at 3 & 6 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully matured
+286,Pineapple,Laterite Soil,540-730,Kharif,120-60-80,360,180,240,Basal + top dressing at 3 & 6 months,Moderate,Add organic matter to improve fertility,Harvest fruits when yellow and sweet
+287,Jackfruit,Sandy Soil,1095-1460,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),High,Supports staking; frequent irrigation,Harvest fruits when mature size is achieved and aroma develops
+288,Jackfruit,Sandy Loam,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Loose soil promotes good root growth,Harvest mature fruits when skin color changes
+289,Jackfruit,Loam,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Well-drained loam ensures strong growth,Harvest fruits at optimum maturity
+290,Jackfruit,Clay Loam,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Ensure drainage to prevent root rot,Harvest mature fruits periodically
+291,Jackfruit,Clay,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Raised beds recommended in heavy soils,Harvest fruits when fully matured
+292,Jackfruit,Red Soil,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Responds well to compost/FYM,Harvest mature fruits when skin develops yellowish tinge
+293,Jackfruit,Black Soil,1095-1460,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),High,High moisture retention; avoid waterlogging,Harvest fruits at full maturity
+294,Jackfruit,Laterite Soil,1095-1460,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),High,Add organic matter to improve fertility,Harvest mature fruits when fully developed
+295,Sapota,Sandy Soil,730-1095,Kharif/ Rabi,150-80-120,450,240,360,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil promotes root growth,Harvest fruits when fully colored and slightly soft
+296,Sapota,Sandy Loam,730-1095,Kharif/ Rabi,150-80-120,420,225,340,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors good root development,Harvest mature fruits when color and aroma indicate ripeness
+297,Sapota,Loam,730-1095,Kharif/ Rabi,150-80-120,420,225,340,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy growth,Harvest fruits when soft and fully colored
+298,Sapota,Clay Loam,730-1095,Kharif/ Rabi,150-80-120,420,225,340,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+299,Sapota,Clay,730-1095,Kharif/ Rabi,150-80-120,420,225,340,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest mature fruits when soft
+300,Sapota,Red Soil,730-1095,Kharif/ Rabi,150-80-120,420,225,340,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest fruits when skin and aroma indicate ripeness
+301,Sapota,Black Soil,730-1095,Kharif/ Rabi,150-80-120,450,240,360,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully matured
+302,Sapota,Laterite Soil,730-1095,Kharif/ Rabi,150-80-120,450,240,360,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+303,Coconut,Sandy Soil,3650-5475,All Year,250-150-200,750,450,600,Basal + 3 top dressings (every 12 months),High,Supports mulching; frequent irrigation required,Harvest mature coconuts after 3-5 years
+304,Coconut,Sandy Loam,3650-5475,All Year,250-150-200,700,420,560,Basal + 3 top dressings (every 12 months),High,Loose soil supports vigorous growth,Harvest mature coconuts periodically
+305,Coconut,Loam,3650-5475,All Year,250-150-200,700,420,560,Basal + 3 top dressings (every 12 months),High,Well-drained loam favors healthy palms,Harvest mature coconuts regularly
+306,Coconut,Clay Loam,3650-5475,All Year,250-150-200,700,420,560,Basal + 3 top dressings (every 12 months),High,Ensure drainage; avoid waterlogging,Harvest mature coconuts periodically
+307,Coconut,Clay,3650-5475,All Year,250-150-200,700,420,560,Basal + 3 top dressings (every 12 months),High,Raised beds recommended,Harvest coconuts after full maturity
+308,Coconut,Red Soil,3650-5475,All Year,250-150-200,700,420,560,Basal + 3 top dressings (every 12 months),High,Responds well to compost/FYM,Harvest mature coconuts periodically
+309,Coconut,Black Soil,3650-5475,All Year,250-150-200,750,450,600,Basal + 3 top dressings (every 12 months),High,High moisture retention; avoid waterlogging,Harvest mature coconuts regularly
+310,Coconut,Laterite Soil,3650-5475,All Year,250-150-200,750,450,600,Basal + 3 top dressings (every 12 months),High,Add organic matter to improve fertility,Harvest mature coconuts periodically
+311,Cashew,Sandy Soil,1825-3650,Kharif,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports root development,Harvest mature nuts 3-5 years after planting
+312,Cashew,Sandy Loam,1825-3650,Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors strong growth,Harvest mature nuts periodically
+313,Cashew,Loam,1825-3650,Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy tree growth,Harvest nuts when shell turns brown
+314,Cashew,Clay Loam,1825-3650,Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage to prevent root rot,Harvest mature nuts periodically
+315,Cashew,Clay,1825-3650,Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest mature nuts when fully developed
+316,Cashew,Red Soil,1825-3650,Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature nuts after shell hardens
+317,Cashew,Black Soil,1825-3650,Kharif,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest mature nuts periodically
+318,Cashew,Laterite Soil,1825-3650,Kharif,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest nuts when fully developed
+319,Custard apple,Sandy Soil,730-1095,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports root growth,Harvest fruits when soft and aromatic
+320,Custard apple,Sandy Loam,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors good root growth,Harvest mature fruits when color changes and aroma develops
+321,Custard apple,Loam,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy growth,Harvest fruits when soft and ripe
+322,Custard apple,Clay Loam,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+323,Custard apple,Clay,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+324,Custard apple,Red Soil,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+325,Custard apple,Black Soil,730-1095,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest mature fruits when soft
+326,Custard apple,Laterite Soil,730-1095,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest fruits when ripe
+327,Aonla,Sandy Soil,730-1460,Rabi/ Kharif,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports root growth,Harvest fruits when greenish-yellow and firm
+328,Aonla,Sandy Loam,730-1460,Rabi/ Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors healthy growth,Harvest mature fruits periodically
+329,Aonla,Loam,730-1460,Rabi/ Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam promotes good yield,Harvest fruits when optimum size and color achieved
+330,Aonla,Clay Loam,730-1460,Rabi/ Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Ensure drainage; avoid waterlogging,Harvest mature fruits periodically
+331,Aonla,Clay,730-1460,Rabi/ Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when firm and optimum size
+332,Aonla,Red Soil,730-1460,Rabi/ Kharif,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+333,Aonla,Black Soil,730-1460,Rabi/ Kharif,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when optimum size reached
+334,Aonla,Laterite Soil,730-1460,Rabi/ Kharif,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+335,Pomegranate,Sandy Soil,1095-1460,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained sandy soil supports flowering and fruiting,Harvest fruits when red and firm
+336,Pomegranate,Sandy Loam,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil favors root and shoot growth,Harvest fruits when color deepens
+337,Pomegranate,Loam,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam ensures uniform fruiting,Harvest mature fruits when skin is deep red
+338,Pomegranate,Clay Loam,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure proper drainage; avoid waterlogging,Harvest fruits periodically
+339,Pomegranate,Clay,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended in heavy soils,Harvest mature fruits when firm and colored
+340,Pomegranate,Red Soil,1095-1460,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to FYM/compost,Harvest mature fruits when deep red
+341,Pomegranate,Black Soil,1095-1460,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest fruits when firm
+342,Pomegranate,Laterite Soil,1095-1460,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+351,Orange,Sandy Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained sandy soil supports flowering,Harvest fruits when fully colored and slightly soft
+352,Orange,Sandy Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil favors root development,Harvest mature fruits when skin color develops
+353,Orange,Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam ensures healthy growth,Harvest fruits when fully colored
+354,Orange,Clay Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure proper drainage,Harvest mature fruits periodically
+355,Orange,Clay,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended in heavy soils,Harvest fruits when ripe
+356,Orange,Red Soil,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to FYM/compost,Harvest fruits when fully colored
+357,Orange,Black Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest mature fruits periodically
+358,Orange,Laterite Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest fruits when ripe
+359,Lemon,Sandy Soil,1095-1460,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Supports flowering in sandy soils,Harvest fruits when fully colored
+360,Lemon,Sandy Loam,1095-1460,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil promotes healthy roots,Harvest mature fruits periodically
+361,Lemon,Loam,1095-1460,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam ensures uniform growth,Harvest fruits when fully colored
+362,Lemon,Clay Loam,1095-1460,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure drainage to prevent waterlogging,Harvest mature fruits periodically
+363,Lemon,Clay,1095-1460,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended for heavy soils,Harvest fruits when ripe
+364,Lemon,Red Soil,1095-1460,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to FYM/compost,Harvest fruits when fully colored
+365,Lemon,Black Soil,1095-1460,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest mature fruits periodically
+366,Lemon,Laterite Soil,1095-1460,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest fruits when ripe
+367,Sweet lime,Sandy Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained sandy soil supports flowering,Harvest fruits when fully colored
+368,Sweet lime,Sandy Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil favors root development,Harvest mature fruits periodically
+369,Sweet lime,Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam ensures healthy growth,Harvest fruits when ripe
+370,Sweet lime,Clay Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure proper drainage,Harvest mature fruits periodically
+371,Sweet lime,Clay,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended,Harvest fruits when fully developed
+372,Sweet lime,Red Soil,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to compost/FYM,Harvest fruits when ripe
+373,Sweet lime,Black Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+374,Sweet lime,Laterite Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+375,Kinnow,Sandy Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained sandy soil supports flowering,Harvest fruits when fully colored
+376,Kinnow,Sandy Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil favors root development,Harvest mature fruits periodically
+377,Kinnow,Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam ensures healthy growth,Harvest fruits when ripe
+378,Kinnow,Clay Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure proper drainage,Harvest mature fruits periodically
+379,Kinnow,Clay,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended,Harvest fruits when fully developed
+380,Kinnow,Red Soil,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to FYM/compost,Harvest fruits when ripe
+381,Kinnow,Black Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+382,Kinnow,Laterite Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+383,Mandarin,Sandy Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained sandy soil supports flowering,Harvest fruits when fully colored
+384,Mandarin,Sandy Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Loose soil favors root development,Harvest mature fruits periodically
+385,Mandarin,Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Well-drained loam ensures healthy growth,Harvest fruits when ripe
+386,Mandarin,Clay Loam,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Ensure proper drainage,Harvest mature fruits periodically
+387,Mandarin,Clay,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Raised beds recommended,Harvest fruits when fully developed
+388,Mandarin,Red Soil,1095-1825,Rabi/ Kharif,180-90-120,500,250,340,Basal + 2 top dressings (6 & 12 months),Moderate,Responds well to FYM/compost,Harvest fruits when ripe
+389,Mandarin,Black Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+390,Mandarin,Laterite Soil,1095-1825,Rabi/ Kharif,180-90-120,540,270,360,Basal + 2 top dressings (6 & 12 months),Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+391,Grapes,Sandy Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 3 & 6 months,Moderate,Well-drained sandy soil promotes root growth,Harvest bunches when fully colored and sweet
+392,Grapes,Sandy Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 3 & 6 months,Moderate,Loose soil favors uniform growth,Harvest mature bunches when sugar content is high
+393,Grapes,Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 3 & 6 months,Moderate,Well-drained loam ensures balanced growth,Harvest bunches when fully colored
+394,Grapes,Clay Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 3 & 6 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+395,Grapes,Clay,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 3 & 6 months,Moderate,Raised beds recommended for heavy soils,Harvest bunches when ripe
+396,Grapes,Red Soil,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 3 & 6 months,Moderate,Responds well to compost/FYM,Harvest mature fruits when sugar content peaks
+397,Grapes,Black Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 3 & 6 months,Moderate,High moisture retention; avoid waterlogging,Harvest bunches when fully colored
+398,Grapes,Laterite Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 3 & 6 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+399,Litchi,Sandy Soil,1460-1825,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),High,Well-drained sandy soil supports flowering and fruiting,Harvest fruits when red and firm
+400,Litchi,Sandy Loam,1460-1825,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Loose soil favors root growth,Harvest mature fruits when color and aroma indicate ripeness
+401,Litchi,Loam,1460-1825,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Well-drained loam ensures healthy growth,Harvest fruits when firm and red
+402,Litchi,Clay Loam,1460-1825,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Ensure proper drainage,Harvest mature fruits periodically
+403,Litchi,Clay,1460-1825,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Raised beds recommended for heavy soils,Harvest fruits when ripe
+404,Litchi,Red Soil,1460-1825,Kharif/ Rabi,200-100-150,550,275,425,Basal + 2 top dressings (6 & 12 months),High,Responds well to compost/FYM,Harvest mature fruits when red
+405,Litchi,Black Soil,1460-1825,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),High,High moisture retention; avoid waterlogging,Harvest fruits when firm
+406,Litchi,Laterite Soil,1460-1825,Kharif/ Rabi,200-100-150,600,300,450,Basal + 2 top dressings (6 & 12 months),High,Add organic matter to improve fertility,Harvest mature fruits periodically
+407,Ber,Sandy Soil,730-1095,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports root growth,Harvest fruits when yellowish-green and firm
+408,Ber,Sandy Loam,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Loose soil promotes healthy growth,Harvest mature fruits when skin turns yellowish
+409,Ber,Loam,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures good yield,Harvest fruits when firm and colored
+410,Ber,Clay Loam,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Ensure drainage; avoid waterlogging,Harvest mature fruits periodically
+411,Ber,Clay,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully colored
+412,Ber,Red Soil,730-1095,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+413,Ber,Black Soil,730-1095,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+414,Ber,Laterite Soil,730-1095,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+415,Figs,Sandy Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports root growth,Harvest fruits when fully colored and soft
+416,Figs,Sandy Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors good growth,Harvest mature fruits when color indicates ripeness
+417,Figs,Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy growth,Harvest fruits when soft and fully colored
+418,Figs,Clay Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+419,Figs,Clay,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+420,Figs,Red Soil,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+421,Figs,Black Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+422,Figs,Laterite Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+423,Loquat,Sandy Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports root growth,Harvest fruits when yellow-orange and soft
+424,Loquat,Sandy Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors good growth,Harvest mature fruits when color indicates ripeness
+425,Loquat,Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy growth,Harvest fruits when soft and fully colored
+426,Loquat,Clay Loam,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+427,Loquat,Clay,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+428,Loquat,Red Soil,730-1095,Kharif/ Rabi,150-75-100,420,210,280,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+429,Loquat,Black Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+430,Loquat,Laterite Soil,730-1095,Kharif/ Rabi,150-75-100,450,225,300,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+431,Passion fruit,Sandy Soil,365-730,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 2 & 4 months,High,Well-drained sandy soil promotes flowering,Harvest fruits when purple and fully sized
+432,Passion fruit,Sandy Loam,365-730,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 2 & 4 months,High,Loose soil favors uniform growth,Harvest mature fruits when color deepens
+433,Passion fruit,Loam,365-730,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 2 & 4 months,High,Well-drained loam ensures healthy growth,Harvest fruits when ripe
+434,Passion fruit,Clay Loam,365-730,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 2 & 4 months,High,Ensure proper drainage,Harvest mature fruits periodically
+435,Passion fruit,Clay,365-730,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 2 & 4 months,High,Raised beds recommended for heavy soils,Harvest fruits when fully colored
+436,Passion fruit,Red Soil,365-730,Kharif/ Rabi,120-60-80,340,170,225,Basal + top dressing at 2 & 4 months,High,Responds well to FYM/compost,Harvest mature fruits when color deepens
+437,Passion fruit,Black Soil,365-730,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 2 & 4 months,High,High moisture retention; avoid waterlogging,Harvest fruits when ripe
+438,Passion fruit,Laterite Soil,365-730,Kharif/ Rabi,120-60-80,360,180,240,Basal + top dressing at 2 & 4 months,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+439,Apple,Sandy Soil,1460-1825,Rabi/Kharif,200-100-150,600,300,450,Basal + top dressing at 6 & 12 months,High,Well-drained sandy soil supports root growth and fruiting,Harvest fruits when fully colored and firm
+440,Apple,Sandy Loam,1460-1825,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Loose soil favors healthy root and shoot growth,Harvest fruits when firm and color develops
+441,Apple,Loam,1460-1825,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Well-drained loam ensures balanced growth,Harvest fruits when fully colored
+442,Apple,Clay Loam,1460-1825,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Ensure drainage; avoid waterlogging,Harvest fruits periodically
+443,Apple,Clay,1460-1825,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+444,Apple,Red Soil,1460-1825,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Responds well to FYM/compost,Harvest mature fruits periodically
+445,Apple,Black Soil,1460-1825,Rabi/Kharif,200-100-150,600,300,450,Basal + top dressing at 6 & 12 months,High,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+446,Apple,Laterite Soil,1460-1825,Rabi/Kharif,200-100-150,600,300,450,Basal + top dressing at 6 & 12 months,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+447,Pear,Sandy Soil,1460-1825,Rabi/Kharif,180-90-140,540,270,420,Basal + top dressing at 6 & 12 months,High,Well-drained sandy soil supports root growth,Harvest fruits when firm and fully colored
+448,Pear,Sandy Loam,1460-1825,Rabi/Kharif,180-90-140,500,250,400,Basal + top dressing at 6 & 12 months,High,Loose soil promotes healthy growth,Harvest mature fruits when color develops
+449,Pear,Loam,1460-1825,Rabi/Kharif,180-90-140,500,250,400,Basal + top dressing at 6 & 12 months,High,Well-drained loam ensures uniform fruiting,Harvest fruits when fully colored
+450,Pear,Clay Loam,1460-1825,Rabi/Kharif,180-90-140,500,250,400,Basal + top dressing at 6 & 12 months,High,Ensure proper drainage,Harvest mature fruits periodically
+451,Pear,Clay,1460-1825,Rabi/Kharif,180-90-140,500,250,400,Basal + top dressing at 6 & 12 months,High,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+452,Pear,Red Soil,1460-1825,Rabi/Kharif,180-90-140,500,250,400,Basal + top dressing at 6 & 12 months,High,Responds well to FYM/compost,Harvest mature fruits periodically
+453,Pear,Black Soil,1460-1825,Rabi/Kharif,180-90-140,540,270,420,Basal + top dressing at 6 & 12 months,High,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+454,Pear,Laterite Soil,1460-1825,Rabi/Kharif,180-90-140,540,270,420,Basal + top dressing at 6 & 12 months,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+455,Plum,Sandy Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports flowering,Harvest fruits when fully colored and slightly soft
+456,Plum,Sandy Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors healthy roots,Harvest mature fruits when color develops
+457,Plum,Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures balanced growth,Harvest fruits when fully colored
+458,Plum,Clay Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+459,Plum,Clay,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+460,Plum,Red Soil,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+461,Plum,Black Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+462,Plum,Laterite Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+463,Peach,Sandy Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil promotes flowering,Harvest fruits when fully colored
+464,Peach,Sandy Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors root development,Harvest mature fruits when color develops
+465,Peach,Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy growth,Harvest fruits when fully colored
+466,Peach,Clay Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+467,Peach,Clay,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+468,Peach,Red Soil,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Responds well to compost/FYM,Harvest mature fruits periodically
+469,Peach,Black Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+470,Peach,Laterite Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+471,Apricot,Sandy Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil promotes flowering,Harvest fruits when orange and firm
+472,Apricot,Sandy Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors root development,Harvest mature fruits when color develops
+473,Apricot,Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures healthy growth,Harvest fruits when fully colored
+474,Apricot,Clay Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Ensure proper drainage,Harvest mature fruits periodically
+475,Apricot,Clay,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+476,Apricot,Red Soil,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature fruits periodically
+477,Apricot,Black Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+478,Apricot,Laterite Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature fruits periodically
+479,Walnut,Sandy Soil,1825-2555,Rabi/Kharif,200-100-150,600,300,450,Basal + top dressing at 6 & 12 months,High,Well-drained sandy soil supports deep rooting,Harvest mature nuts when shells harden
+480,Walnut,Sandy Loam,1825-2555,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Loose soil promotes healthy growth,Harvest nuts when fully matured
+481,Walnut,Loam,1825-2555,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Well-drained loam ensures balanced growth,Harvest nuts when shells turn brown
+482,Walnut,Clay Loam,1825-2555,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Ensure drainage; avoid waterlogging,Harvest nuts periodically
+483,Walnut,Clay,1825-2555,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Raised beds recommended for heavy soils,Harvest mature nuts when fully hardened
+484,Walnut,Red Soil,1825-2555,Rabi/Kharif,200-100-150,550,275,425,Basal + top dressing at 6 & 12 months,High,Responds well to FYM/compost,Harvest nuts periodically
+485,Walnut,Black Soil,1825-2555,Rabi/Kharif,200-100-150,600,300,450,Basal + top dressing at 6 & 12 months,High,High moisture retention; avoid waterlogging,Harvest nuts when fully matured
+486,Walnut,Laterite Soil,1825-2555,Rabi/Kharif,200-100-150,600,300,450,Basal + top dressing at 6 & 12 months,High,Add organic matter to improve fertility,Harvest mature nuts periodically
+487,Almond,Sandy Soil,1460-1825,Rabi/Kharif,180-90-120,540,270,360,Basal + top dressing at 6 & 12 months,Moderate,Well-drained sandy soil supports flowering,Harvest nuts when shells harden
+488,Almond,Sandy Loam,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,Moderate,Loose soil favors root development,Harvest mature nuts when color changes
+489,Almond,Loam,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,Moderate,Well-drained loam ensures uniform growth,Harvest nuts when fully colored
+490,Almond,Clay Loam,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,Moderate,Ensure drainage to avoid waterlogging,Harvest nuts periodically
+491,Almond,Clay,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,Moderate,Raised beds recommended for heavy soils,Harvest nuts when fully ripe
+492,Almond,Red Soil,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,Moderate,Responds well to FYM/compost,Harvest mature nuts periodically
+493,Almond,Black Soil,1460-1825,Rabi/Kharif,180-90-120,540,270,360,Basal + top dressing at 6 & 12 months,Moderate,High moisture retention; avoid waterlogging,Harvest nuts when fully matured
+494,Almond,Laterite Soil,1460-1825,Rabi/Kharif,180-90-120,540,270,360,Basal + top dressing at 6 & 12 months,Moderate,Add organic matter to improve fertility,Harvest mature nuts periodically
+495,Cherry,Sandy Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,High,Well-drained sandy soil supports flowering,Harvest fruits when fully colored and firm
+496,Cherry,Sandy Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,High,Loose soil favors root development,Harvest mature fruits when color develops
+497,Cherry,Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,High,Well-drained loam ensures healthy growth,Harvest fruits when fully colored
+498,Cherry,Clay Loam,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,High,Ensure proper drainage,Harvest mature fruits periodically
+499,Cherry,Clay,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,High,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+500,Cherry,Red Soil,1095-1460,Rabi/Kharif,160-80-120,450,225,340,Basal + top dressing at 6 & 12 months,High,Responds well to FYM/compost,Harvest mature fruits periodically
+501,Cherry,Black Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,High,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+502,Cherry,Laterite Soil,1095-1460,Rabi/Kharif,160-80-120,480,240,360,Basal + top dressing at 6 & 12 months,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+503,Strawberry,Sandy Soil,120-150,Kharif/Rabi,100-50-80,300,150,240,Basal + top dressing at 30 & 60 DAS,High,Well-drained sandy soil promotes runner development,Harvest berries when bright red and fully ripe
+504,Strawberry,Sandy Loam,120-150,Kharif/Rabi,100-50-80,280,140,220,Basal + top dressing at 30 & 60 DAS,High,Loose soil favors uniform growth,Harvest mature berries when color develops
+505,Strawberry,Loam,120-150,Kharif/Rabi,100-50-80,280,140,220,Basal + top dressing at 30 & 60 DAS,High,Well-drained loam ensures healthy growth,Harvest berries when fully colored
+506,Strawberry,Clay Loam,120-150,Kharif/Rabi,100-50-80,280,140,220,Basal + top dressing at 30 & 60 DAS,High,Ensure proper drainage,Harvest mature berries periodically
+507,Strawberry,Clay,120-150,Kharif/Rabi,100-50-80,280,140,220,Basal + top dressing at 30 & 60 DAS,High,Raised beds recommended for heavy soils,Harvest berries when fully ripe
+508,Strawberry,Red Soil,120-150,Kharif/Rabi,100-50-80,280,140,220,Basal + top dressing at 30 & 60 DAS,High,Responds well to compost/FYM,Harvest mature berries periodically
+509,Strawberry,Black Soil,120-150,Kharif/Rabi,100-50-80,300,150,240,Basal + top dressing at 30 & 60 DAS,High,High moisture retention; avoid waterlogging,Harvest berries when fully colored
+510,Strawberry,Laterite Soil,120-150,Kharif/Rabi,100-50-80,300,150,240,Basal + top dressing at 30 & 60 DAS,High,Add organic matter to improve fertility,Harvest mature berries periodically
+511,Kiwi,Sandy Soil,1460-1825,Rabi/Kharif,180-90-120,540,270,360,Basal + top dressing at 6 & 12 months,High,Well-drained sandy soil promotes vine growth,Harvest fruits when fully matured and slightly soft
+512,Kiwi,Sandy Loam,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,High,Loose soil favors root and vine development,Harvest mature fruits when color and softness develop
+513,Kiwi,Loam,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,High,Well-drained loam ensures healthy growth,Harvest fruits when fully colored
+514,Kiwi,Clay Loam,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,High,Ensure proper drainage,Harvest mature fruits periodically
+515,Kiwi,Clay,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,High,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+516,Kiwi,Red Soil,1460-1825,Rabi/Kharif,180-90-120,500,250,340,Basal + top dressing at 6 & 12 months,High,Responds well to FYM/compost,Harvest mature fruits periodically
+519,Watermelon,Sandy Soil,80-100,Kharif,Rabi,120-60-60,360,180,180,Basal + top dressing at 20 DAS,High,Well-drained sandy soil promotes vine growth,Harvest fruits when skin is dark green and tendril near fruit dries
+520,Watermelon,Sandy Loam,80-100,Kharif,Rabi,120-60-60,340,170,170,Basal + top dressing at 20 DAS,High,Loose soil favors uniform vine growth,Harvest mature fruits when rind is firm and deep green
+521,Watermelon,Loam,80-100,Kharif,Rabi,120-60-60,340,170,170,Basal + top dressing at 20 DAS,High,Well-drained loam ensures healthy growth,Harvest fruits when skin color and firmness are optimal
+522,Watermelon,Clay Loam,80-100,Kharif,Rabi,120-60-60,340,170,170,Basal + top dressing at 20 DAS,High,Ensure proper drainage to avoid waterlogging,Harvest mature fruits when tendrils dry
+523,Watermelon,Clay,80-100,Kharif,Rabi,120-60-60,340,170,170,Basal + top dressing at 20 DAS,High,Raised beds recommended for heavy soils,Harvest fruits when skin is dark and firm
+524,Watermelon,Red Soil,80-100,Kharif,Rabi,120-60-60,340,170,170,Basal + top dressing at 20 DAS,High,Responds well to organic compost,Harvest mature fruits when tendril near fruit dries
+525,Watermelon,Black Soil,80-100,Kharif,Rabi,120-60-60,360,180,180,Basal + top dressing at 20 DAS,High,High moisture retention; avoid waterlogging,Harvest fruits when fully colored and firm
+526,Watermelon,Laterite Soil,80-100,Kharif,Rabi,120-60-60,360,180,180,Basal + top dressing at 20 DAS,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+527,Muskmelon,Sandy Soil,70-90,Kharif,Rabi,100-50-60,300,150,180,Basal + top dressing at 20 DAS,High,Well-drained sandy soil supports runner growth,Harvest fruits when aroma develops and skin netting appears
+528,Muskmelon,Sandy Loam,70-90,Kharif,Rabi,100-50-60,280,140,180,Basal + top dressing at 20 DAS,High,Loose soil favors uniform growth,Harvest mature fruits when aroma is strong and skin netting is clear
+529,Muskmelon,Loam,70-90,Kharif,Rabi,100-50-60,280,140,180,Basal + top dressing at 20 DAS,High,Well-drained loam ensures balanced growth,Harvest fruits when aroma is strong
+530,Muskmelon,Clay Loam,70-90,Kharif,Rabi,100-50-60,280,140,180,Basal + top dressing at 20 DAS,High,Ensure proper drainage,Harvest mature fruits periodically
+531,Muskmelon,Clay,70-90,Kharif,Rabi,100-50-60,280,140,180,Basal + top dressing at 20 DAS,High,Raised beds recommended for heavy soils,Harvest fruits when skin netting is clear
+532,Muskmelon,Red Soil,70-90,Kharif,Rabi,100-50-60,280,140,180,Basal + top dressing at 20 DAS,High,Responds well to compost/FYM,Harvest mature fruits when aroma develops
+533,Muskmelon,Black Soil,70-90,Kharif,Rabi,100-50-60,300,150,180,Basal + top dressing at 20 DAS,High,High moisture retention; avoid waterlogging,Harvest fruits when fully ripe
+534,Muskmelon,Laterite Soil,70-90,Kharif,Rabi,100-50-60,300,150,180,Basal + top dressing at 20 DAS,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+535,Honeydew,Sandy Soil,80-100,Kharif,Rabi,110-55-60,330,165,180,Basal + top dressing at 20 DAS,High,Well-drained sandy soil promotes vine growth,Harvest fruits when skin color turns creamy yellow
+536,Honeydew,Sandy Loam,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Loose soil favors uniform growth,Harvest mature fruits when creamy color develops
+537,Honeydew,Loam,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Well-drained loam ensures healthy growth,Harvest fruits when skin is firm and color develops
+538,Honeydew,Clay Loam,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Ensure proper drainage,Harvest mature fruits periodically
+539,Honeydew,Clay,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+540,Honeydew,Red Soil,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Responds well to compost/FYM,Harvest mature fruits when creamy color develops
+541,Honeydew,Black Soil,80-100,Kharif,Rabi,110-55-60,330,165,180,Basal + top dressing at 20 DAS,High,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+542,Honeydew,Laterite Soil,80-100,Kharif,Rabi,110-55-60,330,165,180,Basal + top dressing at 20 DAS,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+543,Galia,Sandy Soil,80-100,Kharif,Rabi,110-55-60,330,165,180,Basal + top dressing at 20 DAS,High,Well-drained sandy soil promotes vine growth,Harvest fruits when netted skin develops and aroma is strong
+544,Galia,Sandy Loam,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Loose soil favors uniform growth,Harvest mature fruits when aroma and skin netting are optimal
+545,Galia,Loam,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Well-drained loam ensures healthy growth,Harvest fruits when skin color and firmness are optimal
+546,Galia,Clay Loam,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Ensure proper drainage,Harvest mature fruits periodically
+547,Galia,Clay,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Raised beds recommended for heavy soils,Harvest fruits when fully ripe
+548,Galia,Red Soil,80-100,Kharif,Rabi,110-55-60,310,155,180,Basal + top dressing at 20 DAS,High,Responds well to compost/FYM,Harvest mature fruits when aroma develops
+549,Galia,Black Soil,80-100,Kharif,Rabi,110-55-60,330,165,180,Basal + top dressing at 20 DAS,High,High moisture retention; avoid waterlogging,Harvest fruits when fully colored
+550,Galia,Laterite Soil,80-100,Kharif,Rabi,110-55-60,330,165,180,Basal + top dressing at 20 DAS,High,Add organic matter to improve fertility,Harvest mature fruits periodically
+551,Aloe Vera,Sandy Soil,365-730,Rabi,50-30-30,150,90,90,Basal + Top Dressing at 3 & 6 months,Low,Well-drained sandy soil prevents root rot,Harvest mature leaves when thick and fleshy
+552,Aloe Vera,Sandy Loam,365-730,Rabi,50-30-30,140,80,80,Basal + Top Dressing at 3 & 6 months,Low,Loose soil favors uniform growth,Harvest mature leaves periodically
+553,Aloe Vera,Loam,365-730,Rabi,50-30-30,140,80,80,Basal + Top Dressing at 3 & 6 months,Low,Loam ensures healthy root growth,Harvest leaves when fully grown
+554,Aloe Vera,Clay Loam,365-730,Rabi,50-30-30,140,80,80,Basal + Top Dressing at 3 & 6 months,Low,Ensure proper drainage,Harvest mature leaves periodically
+555,Aloe Vera,Clay,365-730,Rabi,50-30-30,140,80,80,Basal + Top Dressing at 3 & 6 months,Low,Raised beds recommended for heavy soils,Harvest leaves when fleshy
+556,Aloe Vera,Red Soil,365-730,Rabi,50-30-30,140,80,80,Basal + Top Dressing at 3 & 6 months,Low,Responds well to FYM/compost,Harvest mature leaves periodically
+557,Aloe Vera,Black Soil,365-730,Rabi,50-30-30,150,90,90,Basal + Top Dressing at 3 & 6 months,Low,High moisture retention; avoid waterlogging,Harvest leaves when thick
+558,Aloe Vera,Laterite Soil,365-730,Rabi,50-30-30,150,90,90,Basal + Top Dressing at 3 & 6 months,Low,Add organic matter to improve fertility,Harvest mature leaves periodically
+559,Tulsi (Ocimum sanctum),Sandy Soil,90-120,Kharif/Rabi,60-30-30,180,90,90,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports leaf growth,Harvest leaves before flowering for best medicinal quality
+560,Tulsi (Ocimum sanctum),Sandy Loam,90-120,Kharif/Rabi,60-30-30,170,85,85,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest leaves periodically
+561,Tulsi (Ocimum sanctum),Loam,90-120,Kharif/Rabi,60-30-30,170,85,85,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest leaves when mature
+562,Tulsi (Ocimum sanctum),Clay Loam,90-120,Kharif/Rabi,60-30-30,170,85,85,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest leaves periodically
+563,Tulsi (Ocimum sanctum),Clay,90-120,Kharif/Rabi,60-30-30,170,85,85,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest mature leaves
+564,Tulsi (Ocimum sanctum),Red Soil,90-120,Kharif/Rabi,60-30-30,170,85,85,Basal + Top Dressing at 30 DAS,Moderate,Responds well to organic compost,Harvest leaves periodically
+565,Tulsi (Ocimum sanctum),Black Soil,90-120,Kharif/Rabi,60-30-30,180,90,90,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest leaves when mature
+566,Tulsi (Ocimum sanctum),Laterite Soil,90-120,Kharif/Rabi,60-30-30,180,90,90,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest leaves periodically
+567,Ashwagandha (Withania somnifera),Sandy Soil,180-210,Rabi,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Low,Well-drained sandy soil supports root tuber growth,Harvest roots after 150-180 days
+568,Ashwagandha (Withania somnifera),Sandy Loam,180-210,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Loose soil favors uniform tuber development,Harvest roots periodically
+569,Ashwagandha (Withania somnifera),Loam,180-210,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Loam ensures healthy root growth,Harvest roots when mature
+570,Ashwagandha (Withania somnifera),Clay Loam,180-210,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Ensure proper drainage,Harvest roots periodically
+571,Ashwagandha (Withania somnifera),Clay,180-210,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Raised beds recommended for heavy soils,Harvest roots when mature
+572,Ashwagandha (Withania somnifera),Red Soil,180-210,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Responds well to FYM/compost,Harvest roots periodically
+573,Ashwagandha (Withania somnifera),Black Soil,180-210,Rabi,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Low,High moisture retention; avoid waterlogging,Harvest roots when mature
+574,Ashwagandha (Withania somnifera),Laterite Soil,180-210,Rabi,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Low,Add organic matter to improve fertility,Harvest roots periodically
+575,Isabgol (Psyllium husk),Sandy Soil,90-120,Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports seed production,Harvest seeds when pods turn brown
+576,Isabgol (Psyllium husk),Sandy Loam,90-120,Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest mature seeds when pods dry
+577,Isabgol (Psyllium husk),Loam,90-120,Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest seeds when mature
+578,Isabgol (Psyllium husk),Clay Loam,90-120,Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest seeds periodically
+579,Isabgol (Psyllium husk),Clay,90-120,Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest seeds when pods dry
+580,Isabgol (Psyllium husk),Red Soil,90-120,Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest mature seeds periodically
+581,Isabgol (Psyllium husk),Black Soil,90-120,Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest seeds when pods mature
+582,Isabgol (Psyllium husk),Laterite Soil,90-120,Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest mature seeds periodically
+583,Giloy (Tinospora cordifolia),Sandy Soil,365-730,Rabi/Kharif,70-35-50,210,105,150,Basal + Top Dressing at 3 & 6 months,Moderate,Well-drained sandy soil supports vine growth,Harvest stems after 1 year for medicinal use
+584,Giloy (Tinospora cordifolia),Sandy Loam,365-730,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing at 3 & 6 months,Moderate,Loose soil favors uniform growth,Harvest mature stems periodically
+585,Giloy (Tinospora cordifolia),Loam,365-730,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing at 3 & 6 months,Moderate,Loam ensures healthy root and vine growth,Harvest stems when mature
+586,Giloy (Tinospora cordifolia),Clay Loam,365-730,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing at 3 & 6 months,Moderate,Ensure proper drainage,Harvest mature stems periodically
+587,Giloy (Tinospora cordifolia),Clay,365-730,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing at 3 & 6 months,Moderate,Raised beds recommended for heavy soils,Harvest stems when mature
+588,Giloy (Tinospora cordifolia),Red Soil,365-730,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing at 3 & 6 months,Moderate,Responds well to FYM/compost,Harvest mature stems periodically
+589,Giloy (Tinospora cordifolia),Black Soil,365-730,Rabi/Kharif,70-35-50,210,105,150,Basal + Top Dressing at 3 & 6 months,Moderate,High moisture retention; avoid waterlogging,Harvest stems when mature
+590,Giloy (Tinospora cordifolia),Laterite Soil,365-730,Rabi/Kharif,70-35-50,210,105,150,Basal + Top Dressing at 3 & 6 months,Moderate,Add organic matter to improve fertility,Harvest mature stems periodically
+591,Brahmi,Sandy Soil,90-120,Kharif/Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports root and leaf growth,Harvest whole plant after 90-120 days
+592,Brahmi,Sandy Loam,90-120,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest mature plants periodically
+593,Brahmi,Loam,90-120,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest whole plant when mature
+594,Brahmi,Clay Loam,90-120,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest plants periodically
+595,Brahmi,Clay,90-120,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest mature plants
+596,Brahmi,Red Soil,90-120,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest plants periodically
+597,Brahmi,Black Soil,90-120,Kharif/Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest mature plants
+598,Brahmi,Laterite Soil,90-120,Kharif/Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest plants periodically
+599,Sarpagandha (Rauvolfia),Sandy Soil,365-730,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Low,Well-drained sandy soil supports root tuber growth,Harvest roots after 1 year
+600,Sarpagandha (Rauvolfia),Sandy Loam,365-730,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Loose soil favors uniform tuber development,Harvest roots periodically
+601,Sarpagandha (Rauvolfia),Loam,365-730,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Loam ensures healthy root growth,Harvest roots when mature
+602,Sarpagandha (Rauvolfia),Clay Loam,365-730,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Ensure proper drainage,Harvest roots periodically
+603,Sarpagandha (Rauvolfia),Clay,365-730,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Raised beds recommended for heavy soils,Harvest roots when mature
+604,Sarpagandha (Rauvolfia),Red Soil,365-730,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Low,Responds well to FYM/compost,Harvest roots periodically
+605,Sarpagandha (Rauvolfia),Black Soil,365-730,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Low,High moisture retention; avoid waterlogging,Harvest roots when mature
+606,Sarpagandha (Rauvolfia),Laterite Soil,365-730,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Low,Add organic matter to improve fertility,Harvest roots periodically
+607,Kalmegh (Andrographis),Sandy Soil,120-150,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports stem growth,Harvest whole plant when leaves are mature
+608,Kalmegh (Andrographis),Sandy Loam,120-150,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest plants periodically
+609,Kalmegh (Andrographis),Loam,120-150,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest plants when mature
+610,Kalmegh (Andrographis),Clay Loam,120-150,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest plants periodically
+611,Kalmegh (Andrographis),Clay,120-150,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest mature plants
+612,Kalmegh (Andrographis),Red Soil,120-150,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest plants periodically
+613,Kalmegh (Andrographis),Black Soil,120-150,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest mature plants
+614,Kalmegh (Andrographis),Laterite Soil,120-150,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest plants periodically
+615,Shatavari,Sandy Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,Well-drained sandy soil supports root tuber growth,Harvest roots after 1 year
+616,Shatavari,Sandy Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Loose soil favors uniform tuber development,Harvest roots periodically
+617,Shatavari,Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Loam ensures healthy root growth,Harvest roots when mature
+618,Shatavari,Clay Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Ensure proper drainage,Harvest roots periodically
+619,Shatavari,Clay,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Raised beds recommended for heavy soils,Harvest roots when mature
+620,Shatavari,Red Soil,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Responds well to FYM/compost,Harvest roots periodically
+621,Shatavari,Black Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest roots when mature
+622,Shatavari,Laterite Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,Add organic matter to improve fertility,Harvest roots periodically
+623,Senna (Cassia angustifolia),Sandy Soil,120-150,Kharif/Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports leaf and pod growth,Harvest leaves and pods when mature
+624,Senna (Cassia angustifolia),Sandy Loam,120-150,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest leaves and pods periodically
+625,Senna (Cassia angustifolia),Loam,120-150,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest leaves and pods when mature
+626,Senna (Cassia angustifolia),Clay Loam,120-150,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest plants periodically
+627,Senna (Cassia angustifolia),Clay,120-150,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest mature leaves and pods
+628,Senna (Cassia angustifolia),Red Soil,120-150,Kharif/Rabi,60-30-40,170,85,110,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest plants periodically
+629,Senna (Cassia angustifolia),Black Soil,120-150,Kharif/Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest leaves and pods when mature
+630,Senna (Cassia angustifolia),Laterite Soil,120-150,Kharif/Rabi,60-30-40,180,90,120,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest mature leaves and pods periodically
+631,Safed Musli,Sandy Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,Well-drained sandy soil supports root tuber growth,Harvest roots after 9-12 months
+632,Safed Musli,Sandy Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Loose soil favors uniform tuber development,Harvest roots periodically
+633,Safed Musli,Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Loam ensures healthy root growth,Harvest roots when mature
+634,Safed Musli,Clay Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Ensure proper drainage,Harvest roots periodically
+635,Safed Musli,Clay,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Raised beds recommended for heavy soils,Harvest roots when mature
+636,Safed Musli,Red Soil,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Responds well to FYM/compost,Harvest roots periodically
+637,Safed Musli,Black Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest roots when mature
+638,Safed Musli,Laterite Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,Add organic matter to improve fertility,Harvest roots periodically
+639,Neem,Sandy Soil,730-1460,Rabi/Kharif,60-30-30,180,90,90,Basal + Top Dressing annually,Low,Well-drained sandy soil supports tree growth,Harvest leaves, seeds, and bark periodically
+640,Neem,Sandy Loam,730-1460,Rabi/Kharif,60-30-30,170,85,85,Basal + Top Dressing annually,Low,Loose soil favors uniform tree growth,Harvest leaves, seeds, and bark periodically
+641,Neem,Loam,730-1460,Rabi/Kharif,60-30-30,170,85,85,Basal + Top Dressing annually,Low,Loam ensures healthy growth,Harvest leaves, seeds, and bark periodically
+642,Neem,Clay Loam,730-1460,Rabi/Kharif,60-30-30,170,85,85,Basal + Top Dressing annually,Low,Ensure proper drainage,Harvest leaves, seeds, and bark periodically
+643,Neem,Clay,730-1460,Rabi/Kharif,60-30-30,170,85,85,Basal + Top Dressing annually,Low,Raised beds recommended for heavy soils,Harvest leaves, seeds, and bark periodically
+644,Neem,Red Soil,730-1460,Rabi/Kharif,60-30-30,170,85,85,Basal + Top Dressing annually,Low,Responds well to FYM/compost,Harvest leaves, seeds, and bark periodically
+645,Neem,Black Soil,730-1460,Rabi/Kharif,60-30-30,180,90,90,Basal + Top Dressing annually,Low,High moisture retention; avoid waterlogging,Harvest leaves, seeds, and bark periodically
+646,Neem,Laterite Soil,730-1460,Rabi/Kharif,60-30-30,180,90,90,Basal + Top Dressing annually,Low,Add organic matter to improve fertility,Harvest leaves, seeds, and bark periodically
+647,Arjuna (Terminalia arjuna),Sandy Soil,730-1460,Rabi/Kharif,70-35-50,210,105,150,Basal + Top Dressing annually,Moderate,Well-drained sandy soil supports tree growth,Harvest bark after 5-7 years
+648,Arjuna (Terminalia arjuna),Sandy Loam,730-1460,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing annually,Moderate,Loose soil favors uniform tree growth,Harvest bark periodically
+649,Arjuna (Terminalia arjuna),Loam,730-1460,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing annually,Moderate,Loam ensures healthy growth,Harvest bark after maturity
+650,Arjuna (Terminalia arjuna),Clay Loam,730-1460,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing annually,Moderate,Ensure proper drainage,Harvest bark periodically
+651,Arjuna (Terminalia arjuna),Clay,730-1460,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing annually,Moderate,Raised beds recommended for heavy soils,Harvest bark after maturity
+652,Arjuna (Terminalia arjuna),Red Soil,730-1460,Rabi/Kharif,70-35-50,200,100,140,Basal + Top Dressing annually,Moderate,Responds well to FYM/compost,Harvest bark periodically
+653,Arjuna (Terminalia arjuna),Black Soil,730-1460,Rabi/Kharif,70-35-50,210,105,150,Basal + Top Dressing annually,Moderate,High moisture retention; avoid waterlogging,Harvest bark after maturity
+654,Arjuna (Terminalia arjuna),Laterite Soil,730-1460,Rabi/Kharif,70-35-50,210,105,150,Basal + Top Dressing annually,Moderate,Add organic matter to improve fertility,Harvest bark periodically
+655,Satavari,Sandy Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,Well-drained sandy soil supports root tuber growth,Harvest roots after 1 year
+656,Satavari,Sandy Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Loose soil favors uniform tuber development,Harvest roots periodically
+657,Satavari,Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Loam ensures healthy root growth,Harvest roots when mature
+658,Satavari,Clay Loam,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Ensure proper drainage,Harvest roots periodically
+659,Satavari,Clay,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Raised beds recommended for heavy soils,Harvest roots when mature
+660,Satavari,Red Soil,365-540,Rabi/Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,Moderate,Responds well to FYM/compost,Harvest roots periodically
+661,Satavari,Black Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest roots when mature
+662,Satavari,Laterite Soil,365-540,Rabi/Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,Moderate,Add organic matter to improve fertility,Harvest roots periodically
+663,Periwinkle (Catharanthus),Sandy Soil,180-240,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports stem growth,Harvest leaves and flowers periodically
+664,Periwinkle (Catharanthus),Sandy Loam,180-240,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest mature leaves and flowers periodically
+665,Periwinkle (Catharanthus),Loam,180-240,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest leaves and flowers when mature
+666,Periwinkle (Catharanthus),Clay Loam,180-240,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest mature leaves periodically
+667,Periwinkle (Catharanthus),Clay,180-240,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest leaves and flowers when mature
+668,Periwinkle (Catharanthus),Red Soil,180-240,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest mature leaves periodically
+669,Periwinkle (Catharanthus),Black Soil,180-240,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest leaves and flowers when mature
+670,Periwinkle (Catharanthus),Laterite Soil,180-240,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest mature leaves periodically
+671,Medicinal ginger (Zingiber spp.),Sandy Soil,240-300,Kharif,Rabi,80-40-60,240,120,180,Basal + Top Dressing at 60 DAS,High,Well-drained sandy soil supports rhizome growth,Harvest rhizomes after 8-10 months
+672,Medicinal ginger (Zingiber spp.),Sandy Loam,240-300,Kharif,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 60 DAS,High,Loose soil favors uniform rhizome development,Harvest rhizomes periodically
+673,Medicinal ginger (Zingiber spp.),Loam,240-300,Kharif,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 60 DAS,High,Loam ensures healthy rhizome growth,Harvest rhizomes when mature
+674,Medicinal ginger (Zingiber spp.),Clay Loam,240-300,Kharif,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 60 DAS,High,Ensure proper drainage,Harvest rhizomes periodically
+675,Medicinal ginger (Zingiber spp.),Clay,240-300,Kharif,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 60 DAS,High,Raised beds recommended for heavy soils,Harvest rhizomes when mature
+676,Medicinal ginger (Zingiber spp.),Red Soil,240-300,Kharif,Rabi,80-40-60,220,110,160,Basal + Top Dressing at 60 DAS,High,Responds well to FYM/compost,Harvest rhizomes periodically
+677,Medicinal ginger (Zingiber spp.),Black Soil,240-300,Kharif,Rabi,80-40-60,240,120,180,Basal + Top Dressing at 60 DAS,High,High moisture retention; avoid waterlogging,Harvest rhizomes when mature
+678,Medicinal ginger (Zingiber spp.),Laterite Soil,240-300,Kharif,Rabi,80-40-60,240,120,180,Basal + Top Dressing at 60 DAS,High,Add organic matter to improve fertility,Harvest rhizomes periodically
+679,Berseem (Egyptian clover),Sandy Soil,60-75,Rabi,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,High,Well-drained sandy soil supports quick growth,Harvest 1st cut after 50-60 days
+680,Berseem (Egyptian clover),Sandy Loam,60-75,Rabi,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,High,Loose soil favors uniform growth,Harvest 1st cut after 50-60 days
+681,Berseem (Egyptian clover),Loam,60-75,Rabi,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,High,Loam ensures dense growth,Harvest every 40-50 days
+682,Berseem (Egyptian clover),Clay Loam,60-75,Rabi,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,High,Ensure proper drainage,Harvest 1st cut after 50-60 days
+683,Berseem (Egyptian clover),Clay,60-75,Rabi,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,High,Raised beds recommended for heavy soils,Harvest every 40-50 days
+684,Berseem (Egyptian clover),Red Soil,60-75,Rabi,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,High,Responds well to FYM/compost,Harvest 1st cut after 50-60 days
+685,Berseem (Egyptian clover),Black Soil,60-75,Rabi,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,High,High moisture retention; avoid waterlogging,Harvest every 40-50 days
+686,Berseem (Egyptian clover),Laterite Soil,60-75,Rabi,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,High,Add organic matter to improve fertility,Harvest 1st cut after 50-60 days
+687,Lucerne (Alfalfa),Sandy Soil,90-120,Rabi/Kharif,70-35-50,180,90,150,Basal + Top Dressing at 45 DAS,High,Well-drained sandy soil supports deep root growth,Harvest first cut after 80-90 days
+688,Lucerne (Alfalfa),Sandy Loam,90-120,Rabi/Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Loose soil favors uniform growth,Harvest first cut after 80-90 days
+689,Lucerne (Alfalfa),Loam,90-120,Rabi/Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Loam ensures dense and healthy growth,Harvest every 60-70 days
+690,Lucerne (Alfalfa),Clay Loam,90-120,Rabi/Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Ensure proper drainage,Harvest first cut after 80-90 days
+691,Lucerne (Alfalfa),Clay,90-120,Rabi/Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Raised beds recommended for heavy soils,Harvest every 60-70 days
+692,Lucerne (Alfalfa),Red Soil,90-120,Rabi/Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Responds well to FYM/compost,Harvest first cut after 80-90 days
+693,Lucerne (Alfalfa),Black Soil,90-120,Rabi/Kharif,70-35-50,180,90,150,Basal + Top Dressing at 45 DAS,High,High moisture retention; avoid waterlogging,Harvest every 60-70 days
+694,Lucerne (Alfalfa),Laterite Soil,90-120,Rabi/Kharif,70-35-50,180,90,150,Basal + Top Dressing at 45 DAS,High,Add organic matter to improve fertility,Harvest first cut after 80-90 days
+695,Oats (fodder),Sandy Soil,60-90,Rabi,60-30-30,150,75,75,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports rapid growth,Harvest when leaves are tender
+696,Oats (fodder),Sandy Loam,60-90,Rabi,60-30-30,140,70,70,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest at vegetative stage
+697,Oats (fodder),Loam,60-90,Rabi,60-30-30,140,70,70,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest every 40-50 days
+698,Oats (fodder),Clay Loam,60-90,Rabi,60-30-30,140,70,70,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest at vegetative stage
+699,Oats (fodder),Clay,60-90,Rabi,60-30-30,140,70,70,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest every 40-50 days
+700,Oats (fodder),Red Soil,60-90,Rabi,60-30-30,140,70,70,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest at vegetative stage
+701,Oats (fodder),Black Soil,60-90,Rabi,60-30-30,150,75,75,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest every 40-50 days
+702,Oats (fodder),Laterite Soil,60-90,Rabi,60-30-30,150,75,75,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest at vegetative stage
+703,Sorghum (fodder),Sandy Soil,90-120,Kharif,70-35-50,180,90,150,Basal + Top Dressing at 45 DAS,High,Well-drained sandy soil supports stem growth,Harvest when leaves and stems are tender
+704,Sorghum (fodder),Sandy Loam,90-120,Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Loose soil favors uniform growth,Harvest periodically
+705,Sorghum (fodder),Loam,90-120,Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Loam ensures dense fodder growth,Harvest every 50-60 days
+706,Sorghum (fodder),Clay Loam,90-120,Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Ensure proper drainage,Harvest periodically
+707,Sorghum (fodder),Clay,90-120,Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Raised beds recommended for heavy soils,Harvest every 50-60 days
+708,Sorghum (fodder),Red Soil,90-120,Kharif,70-35-50,170,85,140,Basal + Top Dressing at 45 DAS,High,Responds well to FYM/compost,Harvest periodically
+709,Sorghum (fodder),Black Soil,90-120,Kharif,70-35-50,180,90,150,Basal + Top Dressing at 45 DAS,High,High moisture retention; avoid waterlogging,Harvest every 50-60 days
+710,Sorghum (fodder),Laterite Soil,90-120,Kharif,70-35-50,180,90,150,Basal + Top Dressing at 45 DAS,High,Add organic matter to improve fertility,Harvest periodically
+711,Maize (fodder),Sandy Soil,90-120,Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,High,Well-drained sandy soil supports stalk growth,Harvest when leaves are tender
+712,Maize (fodder),Sandy Loam,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Loose soil favors uniform stalk growth,Harvest periodically
+713,Maize (fodder),Loam,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Loam ensures dense growth,Harvest every 50-60 days
+714,Maize (fodder),Clay Loam,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Ensure proper drainage,Harvest periodically
+715,Maize (fodder),Clay,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Raised beds recommended for heavy soils,Harvest every 50-60 days
+716,Maize (fodder),Red Soil,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Responds well to FYM/compost,Harvest periodically
+717,Maize (fodder),Black Soil,90-120,Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,High,High moisture retention; avoid waterlogging,Harvest every 50-60 days
+718,Maize (fodder),Laterite Soil,90-120,Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,High,Add organic matter to improve fertility,Harvest periodically
+719,Napier grass (Hybrid Napier, Elephant grass),Sandy Soil,90-120,Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,High,Well-drained sandy soil supports rapid stem growth,Harvest 1st cut after 60-70 days
+720,Napier grass (Hybrid Napier, Elephant grass),Sandy Loam,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Loose soil favors uniform growth,Harvest every 60 days
+721,Napier grass (Hybrid Napier, Elephant grass),Loam,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Loam ensures dense fodder growth,Harvest periodically
+722,Napier grass (Hybrid Napier, Elephant grass),Clay Loam,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Ensure proper drainage,Harvest every 60-70 days
+723,Napier grass (Hybrid Napier, Elephant grass),Clay,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Raised beds recommended for heavy soils,Harvest periodically
+724,Napier grass (Hybrid Napier, Elephant grass),Red Soil,90-120,Kharif,80-40-60,220,110,160,Basal + Top Dressing at 45 DAS,High,Responds well to FYM/compost,Harvest every 60-70 days
+725,Napier grass (Hybrid Napier, Elephant grass),Black Soil,90-120,Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,High,High moisture retention; avoid waterlogging,Harvest periodically
+726,Napier grass (Hybrid Napier, Elephant grass),Laterite Soil,90-120,Kharif,80-40-60,240,120,180,Basal + Top Dressing at 45 DAS,High,Add organic matter to improve fertility,Harvest every 60-70 days
+727,Cowpea (fodder),Sandy Soil,60-75,Kharif,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports leaf and stem growth,Harvest leaves when tender
+728,Cowpea (fodder),Sandy Loam,60-75,Kharif,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform growth,Harvest periodically
+729,Cowpea (fodder),Loam,60-75,Kharif,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures healthy growth,Harvest leaves every 40-50 days
+730,Cowpea (fodder),Clay Loam,60-75,Kharif,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest periodically
+731,Cowpea (fodder),Clay,60-75,Kharif,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest leaves every 40-50 days
+732,Cowpea (fodder),Red Soil,60-75,Kharif,60-30-30,110,55,55,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest periodically
+733,Cowpea (fodder),Black Soil,60-75,Kharif,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest leaves every 40-50 days
+734,Cowpea (fodder),Laterite Soil,60-75,Kharif,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest periodically
+735,Guinea grass,Sandy Soil,90-120,Kharif,70-35-50,210,105,150,Basal + Top Dressing at 45 DAS,High,Well-drained sandy soil supports stem growth,Harvest 1st cut after 50-60 days
+736,Guinea grass,Sandy Loam,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Loose soil favors uniform growth,Harvest every 50 days
+737,Guinea grass,Loam,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Loam ensures dense growth,Harvest periodically
+738,Guinea grass,Clay Loam,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Ensure proper drainage,Harvest every 50-60 days
+739,Guinea grass,Clay,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Raised beds recommended for heavy soils,Harvest periodically
+740,Guinea grass,Red Soil,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Responds well to FYM/compost,Harvest every 50-60 days
+741,Guinea grass,Black Soil,90-120,Kharif,70-35-50,210,105,150,Basal + Top Dressing at 45 DAS,High,High moisture retention; avoid waterlogging,Harvest periodically
+742,Guinea grass,Laterite Soil,90-120,Kharif,70-35-50,210,105,150,Basal + Top Dressing at 45 DAS,High,Add organic matter to improve fertility,Harvest every 50-60 days
+743,Stylo grass,Sandy Soil,90-120,Kharif,60-30-30,180,90,120,Basal + Top Dressing at 45 DAS,Moderate,Well-drained sandy soil supports leaf and stem growth,Harvest 1st cut after 60 days
+744,Stylo grass,Sandy Loam,90-120,Kharif,60-30-30,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Loose soil favors uniform growth,Harvest periodically
+745,Stylo grass,Loam,90-120,Kharif,60-30-30,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Loam ensures healthy growth,Harvest every 50-60 days
+746,Stylo grass,Clay Loam,90-120,Kharif,60-30-30,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Ensure proper drainage,Harvest periodically
+747,Stylo grass,Clay,90-120,Kharif,60-30-30,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Raised beds recommended for heavy soils,Harvest every 50-60 days
+748,Stylo grass,Red Soil,90-120,Kharif,60-30-30,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Responds well to FYM/compost,Harvest periodically
+749,Stylo grass,Black Soil,90-120,Kharif,60-30-30,180,90,120,Basal + Top Dressing at 45 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest every 50-60 days
+750,Stylo grass,Laterite Soil,90-120,Kharif,60-30-30,180,90,120,Basal + Top Dressing at 45 DAS,Moderate,Add organic matter to improve fertility,Harvest periodically
+751,Para grass,Sandy Soil,90-120,Kharif,70-35-50,210,105,150,Basal + Top Dressing at 45 DAS,High,Well-drained sandy soil supports rapid stem growth,Harvest 1st cut after 50-60 days
+752,Para grass,Sandy Loam,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Loose soil favors uniform growth,Harvest every 50 days
+753,Para grass,Loam,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Loam ensures dense growth,Harvest periodically
+754,Para grass,Clay Loam,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Ensure proper drainage,Harvest every 50-60 days
+755,Para grass,Clay,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Raised beds recommended for heavy soils,Harvest periodically
+756,Para grass,Red Soil,90-120,Kharif,70-35-50,200,100,140,Basal + Top Dressing at 45 DAS,High,Responds well to FYM/compost,Harvest every 50-60 days
+757,Para grass,Black Soil,90-120,Kharif,70-35-50,210,105,150,Basal + Top Dressing at 45 DAS,High,High moisture retention; avoid waterlogging,Harvest periodically
+758,Para grass,Laterite Soil,90-120,Kharif,70-35-50,210,105,150,Basal + Top Dressing at 45 DAS,High,Add organic matter to improve fertility,Harvest every 50-60 days
+759,Tea,Sandy Soil,730-1460,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,Well-drained sandy soil supports tea bush growth,Harvest leaves after 3 years of planting
+760,Tea,Sandy Loam,730-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Loose soil favors uniform tea growth,Pluck tender leaves periodically
+761,Tea,Loam,730-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Loam ensures dense bush growth,Harvest leaves every 7-10 days
+762,Tea,Clay Loam,730-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Ensure proper drainage,Pluck tender leaves periodically
+763,Tea,Clay,730-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Raised beds recommended for heavy soils,Harvest leaves every 7-10 days
+764,Tea,Red Soil,730-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Responds well to FYM/compost,Pluck tender leaves periodically
+765,Tea,Black Soil,730-1460,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,High moisture retention; avoid waterlogging,Harvest leaves every 7-10 days
+766,Tea,Laterite Soil,730-1460,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,Add organic matter to improve fertility,Pluck tender leaves periodically
+767,Coffee,Sandy Soil,1095-1825,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,Well-drained sandy soil supports coffee tree growth,Harvest beans after 3-4 years
+768,Coffee,Sandy Loam,1095-1825,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Loose soil favors uniform tree growth,Harvest ripe beans periodically
+769,Coffee,Loam,1095-1825,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Loam ensures healthy coffee growth,Pluck ripe cherries every 10-15 days
+770,Coffee,Clay Loam,1095-1825,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Ensure proper drainage,Harvest ripe beans periodically
+771,Coffee,Clay,1095-1825,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Raised beds recommended for heavy soils,Pluck ripe cherries every 10-15 days
+772,Coffee,Red Soil,1095-1825,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Responds well to FYM/compost,Harvest ripe beans periodically
+773,Coffee,Black Soil,1095-1825,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,High moisture retention; avoid waterlogging,Pluck ripe cherries every 10-15 days
+774,Coffee,Laterite Soil,1095-1825,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,Add organic matter to improve fertility,Harvest ripe beans periodically
+775,Cocoa,Sandy Soil,1095-1460,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,Well-drained sandy soil supports cocoa tree growth,Harvest pods after 3-4 years
+776,Cocoa,Sandy Loam,1095-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Loose soil favors uniform tree growth,Harvest pods periodically
+777,Cocoa,Loam,1095-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Loam ensures healthy cocoa growth,Pluck mature pods every 2-3 weeks
+778,Cocoa,Clay Loam,1095-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Ensure proper drainage,Harvest mature pods periodically
+779,Cocoa,Clay,1095-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Raised beds recommended for heavy soils,Pluck mature pods every 2-3 weeks
+780,Cocoa,Red Soil,1095-1460,Kharif/Rabi,70-35-50,200,100,140,Basal + Top Dressing annually,High,Responds well to FYM/compost,Harvest mature pods periodically
+781,Cocoa,Black Soil,1095-1460,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,High moisture retention; avoid waterlogging,Pluck mature pods every 2-3 weeks
+782,Cocoa,Laterite Soil,1095-1460,Kharif/Rabi,70-35-50,210,105,150,Basal + Top Dressing annually,High,Add organic matter to improve fertility,Harvest mature pods periodically
+783,Betel leaf,Sandy Soil,180-240,Kharif/Rabi,60-30-30,180,90,120,Basal + Top Dressing at 30 DAS,High,Well-drained sandy soil supports vine growth,Harvest leaves after 6-8 months
+784,Betel leaf,Sandy Loam,180-240,Kharif/Rabi,60-30-30,170,85,110,Basal + Top Dressing at 30 DAS,High,Loose soil favors uniform growth,Harvest leaves periodically
+785,Betel leaf,Loam,180-240,Kharif/Rabi,60-30-30,170,85,110,Basal + Top Dressing at 30 DAS,High,Loam ensures dense leaf growth,Harvest every 25-30 days
+786,Betel leaf,Clay Loam,180-240,Kharif/Rabi,60-30-30,170,85,110,Basal + Top Dressing at 30 DAS,High,Ensure proper drainage,Harvest leaves periodically
+787,Betel leaf,Clay,180-240,Kharif/Rabi,60-30-30,170,85,110,Basal + Top Dressing at 30 DAS,High,Raised beds recommended for heavy soils,Harvest every 25-30 days
+788,Betel leaf,Red Soil,180-240,Kharif/Rabi,60-30-30,170,85,110,Basal + Top Dressing at 30 DAS,High,Responds well to FYM/compost,Harvest leaves periodically
+789,Betel leaf,Black Soil,180-240,Kharif/Rabi,60-30-30,180,90,120,Basal + Top Dressing at 30 DAS,High,High moisture retention; avoid waterlogging,Harvest every 25-30 days
+790,Betel leaf,Laterite Soil,180-240,Kharif/Rabi,60-30-30,180,90,120,Basal + Top Dressing at 30 DAS,High,Add organic matter to improve fertility,Harvest leaves periodically
+791,Sugarcane,Sandy Soil,300-360,Kharif,100-50-50,300,150,150,Basal + Top Dressing at 60 DAS,High,Well-drained sandy soil supports cane growth,Harvest after 10-12 months
+792,Sugarcane,Sandy Loam,300-360,Kharif,100-50-50,280,140,140,Basal + Top Dressing at 60 DAS,High,Loose soil favors uniform growth,Harvest after 10-12 months
+793,Sugarcane,Loam,300-360,Kharif,100-50-50,280,140,140,Basal + Top Dressing at 60 DAS,High,Loam ensures dense and healthy stalks,Harvest after 10-12 months
+794,Sugarcane,Clay Loam,300-360,Kharif,100-50-50,280,140,140,Basal + Top Dressing at 60 DAS,High,Ensure proper drainage,Harvest after 10-12 months
+795,Sugarcane,Clay,300-360,Kharif,100-50-50,280,140,140,Basal + Top Dressing at 60 DAS,High,Raised beds recommended for heavy soils,Harvest after 10-12 months
+796,Sugarcane,Red Soil,300-360,Kharif,100-50-50,280,140,140,Basal + Top Dressing at 60 DAS,High,Responds well to FYM/compost,Harvest after 10-12 months
+797,Sugarcane,Black Soil,300-360,Kharif,100-50-50,300,150,150,Basal + Top Dressing at 60 DAS,High,High moisture retention; avoid waterlogging,Harvest after 10-12 months
+798,Sugarcane,Laterite Soil,300-360,Kharif,100-50-50,300,150,150,Basal + Top Dressing at 60 DAS,High,Add organic matter to improve fertility,Harvest after 10-12 months
+799,Sugar beet,Sandy Soil,120-150,Rabi,70-30-50,180,90,120,Basal + Top Dressing at 45 DAS,Moderate,Well-drained sandy soil supports root growth,Harvest after 4-5 months
+800,Sugar beet (experimental, Himachal),Sandy Loam,120-150,Rabi,70-30-50,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Loose soil favors uniform root growth,Harvest after 4-5 months
+801,Sugar beet (experimental, Himachal),Loam,120-150,Rabi,70-30-50,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Loam ensures healthy root development,Harvest after 4-5 months
+802,Sugar beet (experimental, Himachal),Clay Loam,120-150,Rabi,70-30-50,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Ensure proper drainage,Harvest after 4-5 months
+803,Sugar beet (experimental, Himachal),Clay,120-150,Rabi,70-30-50,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Raised beds recommended for heavy soils,Harvest after 4-5 months
+804,Sugar beet (experimental, Himachal),Red Soil,120-150,Rabi,70-30-50,170,85,110,Basal + Top Dressing at 45 DAS,Moderate,Responds well to FYM/compost,Harvest after 4-5 months
+805,Sugar beet (experimental, Himachal),Black Soil,120-150,Rabi,70-30-50,180,90,120,Basal + Top Dressing at 45 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest after 4-5 months
+806,Sugar beet (experimental, Himachal),Laterite Soil,120-150,Rabi,70-30-50,180,90,120,Basal + Top Dressing at 45 DAS,Moderate,Add organic matter to improve fertility,Harvest after 4-5 months
+807,Potato,Sandy Soil,90-120,Rabi,90-45-60,270,135,180,Basal + Top Dressing at 30 DAS,Moderate,Well-drained sandy soil supports tuber formation,Harvest after 90-120 days
+808,Potato,Sandy Loam,90-120,Rabi,90-45-60,260,130,170,Basal + Top Dressing at 30 DAS,Moderate,Loose soil favors uniform tuber growth,Harvest after 90-120 days
+809,Potato,Loam,90-120,Rabi,90-45-60,260,130,170,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense tuber formation,Harvest after 90-120 days
+810,Potato,Clay Loam,90-120,Rabi,90-45-60,260,130,170,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest after 90-120 days
+811,Potato,Clay,90-120,Rabi,90-45-60,260,130,170,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for heavy soils,Harvest after 90-120 days
+812,Potato,Red Soil,90-120,Rabi,90-45-60,260,130,170,Basal + Top Dressing at 30 DAS,Moderate,Responds well to FYM/compost,Harvest after 90-120 days
+813,Potato,Black Soil,90-120,Rabi,90-45-60,270,135,180,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest after 90-120 days
+814,Potato,Laterite Soil,90-120,Rabi,90-45-60,270,135,180,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest after 90-120 days
+1,Groundnut,Sandy Soil,95-110,Kharif,65-30-30,130,60,60,Basal + Top Dressing at 30 DAS,High,Frequent irrigation needed; sandy soils drain fast,Harvest when 70-80% pods are mature
+2,Groundnut,Sandy Loam,90-105,Kharif,60-30-30,120,55,55,Basal + Top Dressing at 30 DAS,Moderate,Loose soil promotes uniform pod growth,Harvest when pods are mature
+3,Groundnut,Loam,90-100,Kharif,55-30-30,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Balanced soil ensures dense pods,Harvest when pods reach maturity
+4,Groundnut,Clay Loam,95-110,Kharif,55-30-30,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Ensure good drainage; heavy soils slow growth,Harvest when pods fully formed
+5,Groundnut,Clay,100-115,Kharif,50-25-25,100,45,50,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for clay soil,Harvest when pods mature
+6,Groundnut,Red Soil,90-105,Kharif,60-30-30,115,55,55,Basal + Top Dressing at 30 DAS,Moderate,Add compost to improve fertility,Harvest when pods mature
+7,Groundnut,Black Soil,95-110,Kharif,55-30-30,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when pods mature
+8,Groundnut,Laterite Soil,95-110,Kharif,60-30-30,120,55,55,Basal + Top Dressing at 30 DAS,High,Add organic matter; sandy patches need irrigation,Harvest when pods mature
+9,Soybean,Sandy Soil,85-100,Kharif,60-25-25,120,55,55,Basal + Top Dressing at 30 DAS,High,Sandy soil needs frequent irrigation,Harvest when pods turn brown
+10,Soybean,Sandy Loam,80-95,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Loose soil ensures uniform pod filling,Harvest when pods are mature
+11,Soybean,Loam,80-90,Kharif,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense growth,Harvest when pods are fully filled
+12,Soybean,Clay Loam,85-100,Kharif,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage; heavy soils slow growth,Harvest when pods mature
+13,Soybean,Clay,90-105,Kharif,45-20-25,95,40,40,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended,Harvest when pods mature
+14,Soybean,Red Soil,80-95,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Add compost to improve fertility,Harvest when pods mature
+15,Soybean,Black Soil,85-100,Kharif,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when pods mature
+16,Soybean,Laterite Soil,85-100,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,High,Add organic matter; sandy patches need irrigation,Harvest when pods mature
+17,Mustard (Indian, Yellow, Toria, Brown),Sandy Soil,90-105,Rabi,60-25-25,120,55,55,Basal + Top Dressing at 30 DAS,Moderate,Sandy soil needs frequent irrigation,Harvest when pods turn brown
+18,Mustard (Indian, Yellow, Toria, Brown),Sandy Loam,85-100,Rabi,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Loose soil ensures uniform seed growth,Harvest when pods mature
+19,Mustard (Indian, Yellow, Toria, Brown),Loam,85-95,Rabi,50-20-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense plant growth,Harvest when pods mature
+20,Mustard (Indian, Yellow, Toria, Brown),Clay Loam,90-105,Rabi,50-20-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage; avoid waterlogging,Harvest when pods mature
+21,Mustard (Indian, Yellow, Toria, Brown),Clay,95-110,Rabi,45-20-25,95,40,40,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended,Harvest when pods fully matured
+22,Mustard (Indian, Yellow, Toria, Brown),Red Soil,85-100,Rabi,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter for fertility,Harvest when pods mature
+23,Mustard (Indian, Yellow, Toria, Brown),Black Soil,90-105,Rabi,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when pods mature
+24,Mustard (Indian, Yellow, Toria, Brown),Laterite Soil,85-100,Rabi,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,High,Add compost and improve fertility,Harvest when pods mature
+25,Sunflower,Sandy Soil,90-105,Kharif,60-25-25,120,55,55,Basal + Top Dressing at 30 DAS,High,Sandy soil drains fast; frequent irrigation needed,Harvest when seeds are mature
+26,Sunflower,Sandy Loam,85-100,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Loose soil promotes uniform flower and seed growth,Harvest when seeds mature
+27,Sunflower,Loam,85-95,Kharif,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense growth and high yield,Harvest when seeds mature
+28,Sunflower,Clay Loam,90-105,Kharif,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage; avoid waterlogging,Harvest when seeds mature
+29,Sunflower,Clay,95-110,Kharif,45-20-25,95,40,40,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for clay soil,Harvest when seeds mature
+30,Sunflower,Red Soil,85-100,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Add compost to improve fertility,Harvest when seeds mature
+31,Sunflower,Black Soil,90-105,Kharif,50-25-25,100,45,45,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when seeds mature
+32,Sunflower,Laterite Soil,85-100,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,High,Add organic matter to improve growth,Harvest when seeds mature
+33,Sesame (White & Black til),Sandy Soil,85-95,Kharif,60-25-20,120,55,50,Basal + Top Dressing at 20 DAS,High,Sandy soil drains fast; requires frequent irrigation,Harvest when capsules turn brown
+34,Sesame (White & Black til),Sandy Loam,80-90,Kharif,55-25-20,110,50,45,Basal + Top Dressing at 20 DAS,Moderate,Loose soil ensures uniform seed formation,Harvest when capsules mature
+35,Sesame (White & Black til),Loam,80-85,Kharif,50-20-20,100,45,40,Basal + Top Dressing at 20 DAS,Moderate,Loam ensures dense plant growth,Harvest when capsules mature
+36,Sesame (White & Black til),Clay Loam,85-95,Kharif,50-20-20,100,45,40,Basal + Top Dressing at 20 DAS,Moderate,Ensure drainage; avoid waterlogging,Harvest when capsules mature
+37,Sesame (White & Black til),Clay,90-100,Kharif,45-20-20,95,40,35,Basal + Top Dressing at 20 DAS,Moderate,Raised beds recommended for clay soil,Harvest when capsules mature
+38,Sesame (White & Black til),Red Soil,80-90,Kharif,55-25-20,110,50,45,Basal + Top Dressing at 20 DAS,Moderate,Add compost for better growth,Harvest when capsules mature
+39,Sesame (White & Black til),Black Soil,85-95,Kharif,50-25-20,100,45,40,Basal + Top Dressing at 20 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when capsules mature
+40,Sesame (White & Black til),Laterite Soil,80-90,Kharif,55-25-20,110,50,45,Basal + Top Dressing at 20 DAS,High,Add organic matter; improve fertility,Harvest when capsules mature
+1,Linseed,Sandy Soil,90-100,Rabi,55-25-25,100,50,40,Basal + Top Dressing at 25 DAS,High,Sandy soil drains fast; frequent irrigation needed,Harvest when capsules turn brown
+2,Linseed,Sandy Loam,85-95,Rabi,50-25-25,95,45,40,Basal + Top Dressing at 25 DAS,Moderate,Loose soil ensures uniform seed growth,Harvest when capsules mature
+3,Linseed,Loam,80-90,Rabi,45-20-25,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,Loam ensures dense growth and uniform seed setting,Harvest when capsules mature
+4,Linseed,Clay Loam,85-95,Rabi,45-20-25,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,Ensure good drainage to avoid waterlogging,Harvest when capsules mature
+5,Linseed,Clay,90-100,Rabi,40-20-25,85,35,35,Basal + Top Dressing at 25 DAS,Moderate,Raised beds recommended for clay soils,Harvest when capsules mature
+6,Linseed,Red Soil,85-95,Rabi,50-25-25,95,45,40,Basal + Top Dressing at 25 DAS,Moderate,Add organic matter to improve fertility,Harvest when capsules mature
+7,Linseed,Black Soil,90-100,Rabi,45-25-25,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when capsules mature
+8,Linseed,Laterite Soil,85-95,Rabi,50-25-25,95,45,40,Basal + Top Dressing at 25 DAS,High,Add compost to improve fertility,Harvest when capsules mature
+9,Castor,Sandy Soil,150-180,Kharif,60-30-30,120,60,60,Basal + Top Dressing at 30 DAS,High,Sandy soil drains fast; regular irrigation needed,Harvest when capsules mature and turn brown
+10,Castor,Sandy Loam,140-170,Kharif,55-30-30,110,55,55,Basal + Top Dressing at 30 DAS,Moderate,Loose soil ensures uniform plant growth,Harvest when seeds mature
+11,Castor,Loam,130-160,Kharif,50-25-30,100,50,50,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense growth and high yield,Harvest when capsules dry naturally
+12,Castor,Clay Loam,140-170,Kharif,50-25-30,100,50,50,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest when capsules mature
+13,Castor,Clay,150-180,Kharif,45-20-25,95,45,45,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended,Harvest when capsules mature
+14,Castor,Red Soil,140-170,Kharif,55-25-30,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter for fertility,Harvest when capsules mature
+15,Castor,Black Soil,150-180,Kharif,50-25-30,100,50,50,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when capsules mature
+16,Castor,Laterite Soil,140-170,Kharif,55-25-30,110,50,50,Basal + Top Dressing at 30 DAS,High,Improve soil fertility with compost,Harvest when capsules mature
+17,Niger seed,Sandy Soil,85-100,Kharif,55-25-20,100,50,40,Basal + Top Dressing at 25 DAS,High,Sandy soil drains fast; frequent irrigation,Harvest when capsules turn brown
+18,Niger seed,Sandy Loam,80-95,Kharif,50-25-20,95,45,40,Basal + Top Dressing at 25 DAS,Moderate,Loose soil ensures uniform seed growth,Harvest when capsules mature
+19,Niger seed,Loam,75-90,Kharif,45-20-20,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,Loam ensures dense growth,Harvest when capsules mature
+20,Niger seed,Clay Loam,80-95,Kharif,45-20-20,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,Ensure proper drainage,Harvest when capsules mature
+21,Niger seed,Clay,85-100,Kharif,40-20-20,85,35,35,Basal + Top Dressing at 25 DAS,Moderate,Raised beds recommended,Harvest when capsules mature
+22,Niger seed,Red Soil,80-95,Kharif,50-25-20,95,45,40,Basal + Top Dressing at 25 DAS,Moderate,Add compost to improve fertility,Harvest when capsules mature
+23,Niger seed,Black Soil,85-100,Kharif,45-25-20,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when capsules mature
+24,Niger seed,Laterite Soil,80-95,Kharif,50-25-20,95,45,40,Basal + Top Dressing at 25 DAS,High,Add organic matter for fertility,Harvest when capsules mature
+25,Safflower,Sandy Soil,120-140,Rabi,60-25-30,110,55,50,Basal + Top Dressing at 30 DAS,High,Sandy soil drains fast; frequent irrigation,Harvest when seeds turn brown
+26,Safflower,Sandy Loam,110-130,Rabi,55-25-25,105,50,45,Basal + Top Dressing at 30 DAS,Moderate,Loose soil ensures uniform growth,Harvest when seeds mature
+27,Safflower,Loam,100-120,Rabi,50-20-25,100,45,40,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense growth,Harvest when seeds mature
+28,Safflower,Clay Loam,110-130,Rabi,50-20-25,100,45,40,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest when seeds mature
+29,Safflower,Clay,120-140,Rabi,45-20-25,95,40,40,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended,Harvest when seeds mature
+30,Safflower,Red Soil,110-130,Rabi,55-25-25,105,50,45,Basal + Top Dressing at 30 DAS,Moderate,Add compost to improve fertility,Harvest when seeds mature
+31,Safflower,Black Soil,120-140,Rabi,50-25-25,100,45,40,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when seeds mature
+32,Safflower,Laterite Soil,110-130,Rabi,55-25-25,105,50,45,Basal + Top Dressing at 30 DAS,High,Improve soil fertility with organic matter,Harvest when seeds mature
+S.No,Crop Name,Soil Type,Growth Duration (Days),Season,N-P-K Ratio,Urea (kg/ha),DAP (kg/ha),MOP (kg/ha),Fertilizer Schedule,Water Requirement,Cultivation Tips,Harvesting Tips
+1,Rapeseed,Sandy Soil,95-110,Rabi,60-30-30,120,55,50,Basal + Top Dressing at 30 DAS,High,Sandy soil drains fast; frequent irrigation needed,Harvest when pods turn brown and seeds mature
+2,Rapeseed,Sandy Loam,90-105,Rabi,55-30-30,110,50,45,Basal + Top Dressing at 30 DAS,Moderate,Loose soil promotes uniform growth,Harvest when seeds are fully formed
+3,Rapeseed,Loam,85-100,Rabi,50-25-25,100,45,40,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense growth and high yield,Harvest when pods mature
+4,Rapeseed,Clay Loam,90-105,Rabi,50-25-25,100,45,40,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage; avoid waterlogging,Harvest when pods mature
+5,Rapeseed,Clay,95-110,Rabi,45-20-25,95,40,35,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended for clay soils,Harvest when pods mature
+6,Rapeseed,Red Soil,90-105,Rabi,55-25-25,110,50,45,Basal + Top Dressing at 30 DAS,Moderate,Add organic matter to improve fertility,Harvest when pods mature
+7,Rapeseed,Black Soil,95-110,Rabi,50-25-25,100,45,40,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when pods mature
+8,Rapeseed,Laterite Soil,90-105,Rabi,55-25-25,110,50,45,Basal + Top Dressing at 30 DAS,High,Add compost to improve fertility,Harvest when pods mature
+9,Tung oil seed,Sandy Soil,140-160,Kharif,60-30-30,120,60,55,Basal + Top Dressing at 30 DAS,High,Sandy soil drains fast; frequent irrigation,Harvest when seeds mature and pods dry
+10,Tung oil seed,Sandy Loam,130-150,Kharif,55-30-30,110,55,50,Basal + Top Dressing at 30 DAS,Moderate,Loose soil ensures uniform seed growth,Harvest when seeds mature
+11,Tung oil seed,Loam,120-140,Kharif,50-25-25,100,50,45,Basal + Top Dressing at 30 DAS,Moderate,Loam ensures dense growth,Harvest when seeds mature
+12,Tung oil seed,Clay Loam,130-150,Kharif,50-25-25,100,50,45,Basal + Top Dressing at 30 DAS,Moderate,Ensure proper drainage,Harvest when seeds mature
+13,Tung oil seed,Clay,140-160,Kharif,45-20-25,95,45,40,Basal + Top Dressing at 30 DAS,Moderate,Raised beds recommended,Harvest when seeds mature
+14,Tung oil seed,Red Soil,130-150,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,Moderate,Add compost for fertility,Harvest when seeds mature
+15,Tung oil seed,Black Soil,140-160,Kharif,50-25-25,100,50,45,Basal + Top Dressing at 30 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when seeds mature
+16,Tung oil seed,Laterite Soil,130-150,Kharif,55-25-25,110,50,50,Basal + Top Dressing at 30 DAS,High,Improve fertility with organic matter,Harvest when seeds mature
+17,Perilla seed,Sandy Soil,85-95,Kharif,55-25-25,100,50,40,Basal + Top Dressing at 25 DAS,High,Sandy soil drains fast; frequent irrigation needed,Harvest when capsules turn brown
+18,Perilla seed,Sandy Loam,80-90,Kharif,50-25-25,95,45,40,Basal + Top Dressing at 25 DAS,Moderate,Loose soil ensures uniform seed growth,Harvest when capsules mature
+19,Perilla seed,Loam,75-85,Kharif,45-20-20,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,Loam ensures dense plant growth,Harvest when capsules mature
+20,Perilla seed,Clay Loam,80-90,Kharif,45-20-20,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,Ensure proper drainage,Harvest when capsules mature
+21,Perilla seed,Clay,85-95,Kharif,40-20-20,85,35,35,Basal + Top Dressing at 25 DAS,Moderate,Raised beds recommended,Harvest when capsules mature
+22,Perilla seed,Red Soil,80-90,Kharif,50-25-25,95,45,40,Basal + Top Dressing at 25 DAS,Moderate,Add compost to improve fertility,Harvest when capsules mature
+23,Perilla seed,Black Soil,85-95,Kharif,45-25-25,90,40,35,Basal + Top Dressing at 25 DAS,Moderate,High moisture retention; avoid waterlogging,Harvest when capsules mature
+24,Perilla seed,Laterite Soil,80-90,Kharif,50-25-25,95,45,40,Basal + Top Dressing at 25 DAS,High,Improve fertility with organic matter,Harvest when capsules mature

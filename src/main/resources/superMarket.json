@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SM001",
+    "name": "Daily Needs",
+    "city": "Chennai",
+    "open": true,
+    "year": 2018,
+    "rating": 4.2
+  },
+  {
+    "id": "SM002",
+    "name": "Fresh Mart",
+    "city": "Coimbatore",
+    "open": true,
+    "year": 2016,
+    "rating": 4.5
+  },
+  {
+    "id": "SM003",
+    "name": "Green Basket",
+    "city": "Madurai",
+    "open": false,
+    "year": 2014,
+    "rating": 3.9
+  },
+  {
+    "id": "SM004",
+    "name": "City Super",
+    "city": "Trichy",
+    "open": true,
+    "year": 2019,
+    "rating": 4.1
+  },
+  {
+    "id": "SM005",
+    "name": "Budget Mart",
+    "city": "Salem",
+    "open": true,
+    "year": 2017,
+    "rating": 4.0
+  },
+  {
+    "id": "SM006",
+    "name": "Value Store",
+    "city": "Erode",
+    "open": false,
+    "year": 2013,
+    "rating": 3.8
+  },
+  {
+    "id": "SM007",
+    "name": "Family Mart",
+    "city": "Tirunelveli",
+    "open": true,
+    "year": 2020,
+    "rating": 4.6
+  },
+  {
+    "id": "SM008",
+    "name": "Quick Buy",
+    "city": "Vellore",
+    "open": true,
+    "year": 2015,
+    "rating": 4.0
+  },
+  {
+    "id": "SM009",
+    "name": "Smart Shop",
+    "city": "Thoothukudi",
+    "open": false,
+    "year": 2012,
+    "rating": 3.7
+  },
+  {
+    "id": "SM010",
+    "name": "Easy Mart",
+    "city": "Thanjavur",
+    "open": true,
+    "year": 2018,
+    "rating": 4.3
+  },
+  {
+    "id": "SM011",
+    "name": "People Store",
+    "city": "Nagapattinam",
+    "open": true,
+    "year": 2016,
+    "rating": 4.1
+  },
+  {
+    "id": "SM012",
+    "name": "Village Mart",
+    "city": "Karur",
+    "open": false,
+    "year": 2011,
+    "rating": 3.6
+  },
+  {
+    "id": "SM013",
+    "name": "Metro Market",
+    "city": "Chennai",
+    "open": true,
+    "year": 2021,
+    "rating": 4.7
+  },
+  {
+    "id": "SM014",
+    "name": "Mini Mart",
+    "city": "Cuddalore",
+    "open": true,
+    "year": 2019,
+    "rating": 4.2
+  },
+  {
+    "id": "SM015",
+    "name": "Town Super",
+    "city": "Kanchipuram",
+    "open": false,
+    "year": 2010,
+    "rating": 3.9
+  }
+]
