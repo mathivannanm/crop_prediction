@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plant Disease Advisory</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/result.css') }}">
+</head>
+
+<body style="background-image:url('data:image/jpeg;base64,{{ image_base64 }}')">
+
+<!-- Background Overlay -->
+<div class="overlay"></div>
+
+<!-- ==================================================
+     TOP SUMMARY CARD
+================================================== -->
+<div class="top-summary-card">
+
+    <!-- LEFT : CROP & DISEASE -->
+    <div class="summary-left">
+        <h2 class="crop-name">
+            🌱 Crop : <span>{{ crop }}</span>
+        </h2>
+
+        <h3 class="disease-name">
+            🦠 Disease : <span>{{ disease }}</span>
+        </h3>
+    </div>
+
+    <!-- CENTER : UPLOADED IMAGE -->
+    <div class="summary-image">
+        <img src="data:image/jpeg;base64,{{ image_base64 }}"
+             alt="Uploaded Crop Image">
+    </div>
+
+    <!-- RIGHT : CONFIDENCE -->
+    <div class="summary-right">
+
+        <h4 class="confidence-title">Prediction Confidence</h4>
+
+        <div class="confidence-wrapper">
+
+            <!-- Crop Confidence -->
+            <div class="circle crop">
+                <svg width="90" height="90">
+                    <circle cx="45" cy="45" r="40"></circle>
+                    <circle cx="45" cy="45" r="40"
+                        style="stroke-dashoffset: calc(251 - (251 * {{ crop_conf }}) / 100);">
+                    </circle>
+                </svg>
+                <div class="circle-text">
+                    <strong>{{ crop_conf }}%</strong>
+                    <span>Crop Matched </span>
+                </div>
+            </div>
+
+            <!-- Disease Confidence -->
+            <div class="circle disease">
+                <svg width="90" height="90">
+                    <circle cx="45" cy="45" r="40"></circle>
+                    <circle cx="45" cy="45" r="40"
+                        style="stroke-dashoffset: calc(251 - (251 * {{ disease_conf }}) / 100);">
+                    </circle>
+                </svg>
+                <div class="circle-text">
+                    <strong>{{ disease_conf }}%</strong>
+                    <span>Disease Predicted</span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<!-- ==================================================
+     MAIN CONTENT CARD
+================================================== -->
+<div class="main-card">
+
+    <div class="cards-horizontal">
+
+        <!-- CAUSE CARD -->
+        <div class="info-card">
+            <h3 class="card-title cause">How Disease Occurs</h3>
+            <div class="card-content">
+                {{ advisory.cause or
+                "Disease cause information is not clearly available in the TNAU guide." }}
+            </div>
+        </div>
+
+        <!-- SOLUTION CARD -->
+        <div class="info-card">
+            <h3 class="card-title solution">Advisory / Control</h3>
+            <div class="card-content">
+                {{ advisory.solution or
+                "Follow TNAU recommended disease management practices." }}
+            </div>
+        </div>
+
+        <!-- MEDICINE CARD -->
+        <div class="info-card">
+            <h3 class="card-title medicine">Medicine & Dosage (1 Acre)</h3>
+
+            <div class="card-content">
+                {{ advisory.medicine | replace('\n','<br>') | safe }}
+            </div>
+
+            <div class="medicine-btn-box">
+                <a href="/download_prescription" class="btn btn-download">
+                    📄 Download Prescription
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- PREDICT AGAIN -->
+    <div class="action-center">
+        <a href="/" class="btn btn-predict">
+            🔁 Predict Another
+        </a>
+    </div>
+
+</div>
+
+</body>
+</html>

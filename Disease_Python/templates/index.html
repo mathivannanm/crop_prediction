@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plant Disease Prediction</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+
+<body>
+
+<!-- 🌿 MAIN CARD -->
+<div class="card">
+    <h2>🌿 Plant Disease Prediction</h2>
+    <p class="subtitle">Upload a leaf image to detect crop & disease</p>
+
+    <form method="POST" enctype="multipart/form-data" onsubmit="showLoader()">
+        <div class="upload-box">
+            <input type="file" name="leaf" accept="image/*" required>
+        </div>
+
+        <button type="submit">🔍 Predict</button>
+    </form>
+
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% endif %}
+</div>
+
+<!-- 🔄 LOADING SPINNER -->
+<div id="loader" class="loader hidden">
+    <div class="spinner"></div>
+    <p>Analyzing leaf image...</p>
+</div>
+
+<!-- JS -->
+<script>
+function showLoader() {
+    document.getElementById("loader").classList.remove("hidden");
+}
+</script>
+
+</body>
+</html>

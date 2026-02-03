@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Page background */
+body {
+    min-height: 100vh;
+    background: url("/Vayaleeshwarar/assets/img.jpg") no-repeat center / cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Glass container */
+.glass-box {
+    width: 360px;
+    padding: 30px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    color: #fff;
+}
+
+/* Title */
+.glass-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Inputs */
+.glass-box input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    outline: none;
+}
+
+.glass-box input::placeholder {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+/* Button */
+.glass-box button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background: #ffffff;
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.glass-box button:hover {
+    background: #e0e0e0;
+}
+
+/* Options row */
+.options {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+/* Links */
+a {
+    color:blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000;
+}

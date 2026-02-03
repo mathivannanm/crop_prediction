@@ -1,0 +1,8 @@
+{
+    "labels": {
+        "0": "Potato_Early_blight",
+        "1": "Potato_Healthy",
+        "2": "Potato_Late_blight"
+    },
+    "confidence_threshold": 0.35
+}

@@ -1,0 +1,9 @@
+{
+    "labels": {
+        "0": "Rice_Bacterial_blight",
+        "1": "Rice_Blast",
+        "2": "Rice_Brown_spot",
+        "3": "Rice_Tungro"
+    },
+    "confidence_threshold": 0.75
+}

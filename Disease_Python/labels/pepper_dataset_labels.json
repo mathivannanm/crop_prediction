@@ -1,0 +1,7 @@
+{
+    "labels": {
+        "0": "Pepper__bell___Bacterial_spot",
+        "1": "Pepper__bell___Healthy"
+    },
+    "confidence_threshold": 0.75
+}

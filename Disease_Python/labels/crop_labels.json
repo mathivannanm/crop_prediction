@@ -1,0 +1,10 @@
+{
+    "labels": {
+        "0": "pepper",
+        "1": "potato",
+        "2": "rice",
+        "3": "sugarcane",
+        "4": "tomato"
+    },
+    "confidence_threshold": 0.5
+}

@@ -1,0 +1,10 @@
+{
+    "labels": {
+        "0": "Sugarcane_Healthy",
+        "1": "Sugarcane_Mosaic",
+        "2": "Sugarcane_Red_Rot",
+        "3": "Sugarcane_Rust",
+        "4": "Sugarcane_Yellow"
+    },
+    "confidence_threshold": 0.75
+}

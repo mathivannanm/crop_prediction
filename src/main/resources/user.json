@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "User1",
+      "phone": "9000000001",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:01:00",
+      "visitCount": 10
+    },
+    {
+      "id": 2,
+      "name": "User2",
+      "phone": "9000000002",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:02:00",
+      "visitCount": 10
+    },
+    {
+      "id": 3,
+      "name": "User3",
+      "phone": "9000000003",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:03:00",
+      "visitCount": 10
+    },
+    {
+      "id": 4,
+      "name": "User4",
+      "phone": "9000000004",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:04:00",
+      "visitCount": 10
+    },
+    {
+      "id": 5,
+      "name": "User5",
+      "phone": "9000000005",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:05:00",
+      "visitCount": 10
+    },
+    {
+      "id": 6,
+      "name": "User6",
+      "phone": "9000000006",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:06:00",
+      "visitCount": 10
+    },
+    {
+      "id": 7,
+      "name": "User7",
+      "phone": "9000000007",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:07:00",
+      "visitCount": 10
+    },
+    {
+      "id": 8,
+      "name": "User8",
+      "phone": "9000000008",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:08:00",
+      "visitCount": 10
+    },
+    {
+      "id": 9,
+      "name": "User9",
+      "phone": "9000000009",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:09:00",
+      "visitCount": 10
+    },
+    {
+      "id": 10,
+      "name": "User10",
+      "phone": "9000000010",
+      "password": "1234",
+      "lastLogin": "2026-01-01 10:10:00",
+      "visitCount": 10
+    }
+  ]
+}

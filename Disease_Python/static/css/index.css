@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: url("/static/images/farm_bg.jpg") no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Dark blur overlay */
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(6px);
+    z-index: -1;
+}
+
+/* Main card */
+.card {
+    width: 100%;
+    max-width: 420px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 16px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+    padding: 26px;
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+h2 {
+    margin-top: 0;
+    color: #2e7d32;
+}
+
+.subtitle {
+    color: #555;
+    font-size: 14px;
+}
+
+/* Upload box */
+.upload-box {
+    border: 2px dashed #4CAF50;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 18px 0;
+    cursor: pointer;
+}
+
+input[type="file"] {
+    width: 100%;
+}
+
+/* Button */
+button {
+    padding: 12px 28px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+button:hover {
+    background: #388e3c;
+    transform: translateY(-2px);
+}
+
+/* Error */
+.error {
+    color: #d32f2f;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+/* Loader */
+.loader {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    backdrop-filter: blur(5px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.loader.hidden {
+    display: none;
+}
+
+.spinner {
+    width: 60px;
+    height: 60px;
+    border: 6px solid #ddd;
+    border-top: 6px solid #2ecc71;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    100% { transform: rotate(360deg); }
+}
+
+.loader p {
+    color: #fff;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+    .card {
+        padding: 20px;
+    }
+}

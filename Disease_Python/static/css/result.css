@@ -1,0 +1,299 @@
+/* =====================================================
+   GLOBAL RESET
+===================================================== */
+* {
+    box-sizing: border-box;
+    font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+
+/* =====================================================
+   BACKGROUND OVERLAY
+===================================================== */
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter:n
+    z-index: -1;
+}
+
+/* =====================================================
+   TOP SUMMARY CARD
+===================================================== */
+.top-summary-card {
+    max-width: 1150px;
+    margin: 30px auto;
+    padding: 26px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+
+    background: rgba(255,255,255,0.14);
+    border-radius: 26px;
+    backdrop-filter: blur(10px);
+}
+
+/* =====================================================
+   CONFIDENCE CIRCLES
+===================================================== */
+.confidence-circle-box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.circle {
+    width: 90px;
+    height: 90px;
+    position: relative;
+}
+
+.circle svg {
+    width: 90px;
+    height: 90px;
+    transform: rotate(-90deg);
+}
+
+.circle circle {
+    fill: none;
+    stroke-width: 8;
+    stroke-linecap: round;
+}
+
+.circle circle:first-child {
+    stroke: rgba(255,255,255,0.25);
+}
+
+.circle circle:last-child {
+    stroke: #6c5ce7;
+    stroke-dasharray: 251;
+    transition: stroke-dashoffset 0.6s ease;
+}
+
+.circle.disease circle:last-child {
+    stroke: #00cec9;
+}
+
+.circle-text {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.circle-text span {
+    font-size: 11px;
+    opacity: 0.8;
+}
+
+/* =====================================================
+   IMAGE CENTER (ZOOM + GLOW)
+===================================================== */
+.summary-image {
+    position: relative;
+}
+
+.summary-image img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 3px solid rgba(255,255,255,0.3);
+
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.summary-image img:hover {
+    transform: scale(1.08);
+    box-shadow:
+        0 0 15px rgba(138,255,138,0.8),
+        0 0 35px rgba(138,255,138,0.5);
+}
+
+/* =====================================================
+   RIGHT DETAILS
+===================================================== */
+.summary-details h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.summary-details h3 {
+    font-size: 18px;
+    opacity: 0.95;
+}
+
+.summary-details span {
+    color: #8aff8a;
+}
+
+/* =====================================================
+   MAIN CARD
+===================================================== */
+.main-card {
+    max-width: 1150px;
+    margin: 30px auto;
+    padding: 30px;
+
+    background: rgba(0,0,0,0.45);
+    border-radius: 26px;
+    backdrop-filter: blur(10px);
+}
+
+/* =====================================================
+   HORIZONTAL INFO CARDS
+===================================================== */
+.cards-horizontal {
+    display: flex;
+    justify-content: center;
+    gap: 26px;
+    flex-wrap: wrap;
+}
+
+/* =====================================================
+   INFO CARD
+===================================================== */
+.info-card {
+    width: 310px;
+    height: 240px;
+
+    background: rgba(255,255,255,0.15);
+    border-radius: 20px;
+    padding: 16px;
+
+    display: flex;
+    flex-direction: column;
+
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.info-card:hover {
+    transform: translateY(-6px);
+    box-shadow:
+        0 0 15px rgba(255,255,255,0.35),
+        0 0 30px rgba(255,255,255,0.15);
+}
+
+/* =====================================================
+   CARD TITLES
+===================================================== */
+.card-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-title.cause { color: #ff7675; }
+.card-title.solution { color: #55efc4; }
+.card-title.medicine { color: #74b9ff; }
+
+/* =====================================================
+   CARD CONTENT
+===================================================== */
+.card-content {
+    flex: 1;
+    font-size: 14px;
+    line-height: 1.6;
+    overflow-y: auto;
+    padding-right: 6px;
+}
+
+/* Scrollbar */
+.card-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.card-content::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.4);
+    border-radius: 10px;
+}
+
+/* =====================================================
+   MEDICINE BUTTON
+===================================================== */
+.medicine-btn-box {
+    margin-top: 12px;
+    text-align: center;
+}
+
+/* =====================================================
+   BUTTONS (GLOW)
+===================================================== */
+.btn {
+    display: inline-block;
+    padding: 10px 24px;
+    border-radius: 30px;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+
+    transition: all 0.3s ease;
+}
+
+.btn-download {
+    background: linear-gradient(135deg, #00b894, #55efc4);
+}
+
+.btn-predict {
+    background: linear-gradient(135deg, #6c5ce7, #a29bfe);
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow:
+        0 0 14px rgba(255,255,255,0.6),
+        0 0 32px rgba(255,255,255,0.35);
+}
+
+/* =====================================================
+   ACTION CENTER
+===================================================== */
+.action-center {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+@media (max-width: 900px) {
+
+    .top-summary-card {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .confidence-circle-box {
+        flex-direction: row;
+    }
+
+    .cards-horizontal {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info-card {
+        width: 100%;
+        max-width: 360px;
+    }
+
+    .summary-image img {
+        width: 100%;
+        height: auto;
+    }
+}
